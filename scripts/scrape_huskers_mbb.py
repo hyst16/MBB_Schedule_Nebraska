@@ -14,7 +14,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 # ------------------- Config -------------------
 
-SOURCE_URL = "https://huskers.com/sports/men's basketball/schedule"
+SOURCE_URL = "https://huskers.com/sports/mens-basketball/schedule"
 OUT = Path("data/mbb_raw.json")
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
