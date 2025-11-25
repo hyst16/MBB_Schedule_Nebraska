@@ -1,0 +1,57 @@
+name: Scrape & Build (Men's Basketball)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:15 UTC & 13:15 UTC ≈ 2:15 AM & 8:15 AM America/Chicago
+    - cron: '15 7 * * *'
+    - cron: '15 13 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape Huskers.com (VB)
+        run: |
+          python scripts/scrape_huskers_mbb.py
+
+      - name: Normalize JSON
+        run: |
+          python scripts/normalize_mbb_schedule.py
+
+      - name: Generate arena manifest
+        run: |
+          python scripts/generate_arena_manifest.py
+
+      - name: Publish data to docs/data
+        run: |
+          mkdir -p docs/data
+          cp data/mbb_schedule_normalized.json docs/data/mbb_schedule_normalized.json
+          cp data/arena_manifest.json docs/data/arena_manifest.json
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "VB data update: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

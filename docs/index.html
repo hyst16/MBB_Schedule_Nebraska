@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Husker Men's Basketball — Auto Schedule</title>
+
+  <!-- Cache-bust CSS so signage players don't reuse old files -->
+  <link rel="stylesheet" href="assets/styles.css?v=2025-09-19-1" />
+
+  <!-- Disable caching aggressively -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+</head>
+<body>
+  <!-- =============== NEXT / HERO =============== -->
+  <div id="view-next" class="view hidden">
+    <div class="bg" id="next-bg"></div>
+    <div class="next-card">
+      <div class="row logos">
+        <div class="logo-wrap">
+          <img id="ne-logo" class="logo" alt="Nebraska" />
+          <span id="ne-rank" class="rank-badge hidden"></span>
+        </div>
+        <div class="vs" id="divider">vs.</div>
+        <div class="logo-wrap">
+          <img id="opp-logo" class="logo" alt="Opponent" />
+          <span id="opp-rank" class="rank-badge hidden"></span>
+        </div>
+      </div>
+
+      <div id="next-opponent" class="opponent"></div>
+      <div id="next-datetime" class="detail"></div>
+      <div id="next-venue" class="detail"></div>
+      <div id="next-tv" class="detail"></div>
+    </div>
+  </div>
+
+  <!-- =============== SCHEDULE (16:9 STAGE) =============== -->
+  <!-- The stage is a fixed 16:9 box centered on screen. We scale the INNER content to fit. -->
+  <div id="view-all" class="view hidden">
+    <div id="stage" class="stage">
+      <!-- The 16:9 box itself -->
+      <div id="stage-box" class="stage-box">
+        <!-- We anchor content at TOP-CENTER so it never drifts when scaled -->
+        <div id="stage-content" class="stage-content">
+          <!-- JS injects the schedule grid (.cols) here -->
+          <div class="all-wrap"><!-- injected --></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="debug" class="debug hidden"></div>
+
+  <script>
+    // UI defaults (can be overridden by URL params)
+    window.UI = {
+      theme: "classic-husker",
+      rotateSeconds: 15,
+      showDividerLiteral: true,
+      showCityOnly: true,
+      kenBurns: false
+    };
+
+    // Cache-bust data fetches
+    window.DATA_URL     = "data/mbb_schedule_normalized.json?v=" + Date.now();
+    window.MANIFEST_URL = "data/arena_manifest.json?v=" + Date.now();
+  </script>
+
+  <!-- Cache-bust JS -->
+  <script src="assets/app.js?v=2025-09-19-1"></script>
+</body>
+</html>
