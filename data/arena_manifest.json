@@ -1,3 +1,124 @@
 {
-  "arenas": []
+  "arenas": [
+    {
+      "arena_key": "carver-hawkeye-arena",
+      "display": "Carver-Hawkeye Arena",
+      "opponent": "Iowa",
+      "city": "Iowa City, Iowa",
+      "filename": "carver-hawkeye-arena.jpg",
+      "path": "docs/images/arenas/carver-hawkeye-arena.jpg"
+    },
+    {
+      "arena_key": "crisler-center",
+      "display": "Crisler Center",
+      "opponent": "Michigan",
+      "city": "Ann Arbor, Mich.",
+      "filename": "crisler-center.jpg",
+      "path": "docs/images/arenas/crisler-center.jpg"
+    },
+    {
+      "arena_key": "galen-center",
+      "display": "Galen Center",
+      "opponent": "Southern California",
+      "city": "Los Angeles, Calif",
+      "filename": "galen-center.jpg",
+      "path": "docs/images/arenas/galen-center.jpg"
+    },
+    {
+      "arena_key": "jersey-mike-s-arena",
+      "display": "Jersey Mike\u2019s Arena",
+      "opponent": "Rutgers",
+      "city": "Piscataway, N.J.",
+      "filename": "jersey-mike-s-arena.jpg",
+      "path": "docs/images/arenas/jersey-mike-s-arena.jpg"
+    },
+    {
+      "arena_key": "pauley-pavilion",
+      "display": "Pauley Pavilion",
+      "opponent": "UCLA",
+      "city": "Los Angeles, Calif",
+      "filename": "pauley-pavilion.jpg",
+      "path": "docs/images/arenas/pauley-pavilion.jpg"
+    },
+    {
+      "arena_key": "pinnacle-bank-arena",
+      "display": "Pinnacle Bank Arena",
+      "opponent": "New Hampshire",
+      "city": "Lincoln, Neb.",
+      "filename": "pinnacle-bank-arena.jpg",
+      "path": "docs/images/arenas/pinnacle-bank-arena.jpg"
+    },
+    {
+      "arena_key": "sanford-pentagon",
+      "display": "Sanford Pentagon",
+      "opponent": "Oklahoma",
+      "city": "Sioux Falls, S.D.",
+      "filename": "sanford-pentagon.jpg",
+      "path": "docs/images/arenas/sanford-pentagon.jpg"
+    },
+    {
+      "arena_key": "simon-skjodt-assembly-hall",
+      "display": "Simon Skjodt Assembly Hall",
+      "opponent": "Indiana",
+      "city": "Bloomington, Ind.",
+      "filename": "simon-skjodt-assembly-hall.jpg",
+      "path": "docs/images/arenas/simon-skjodt-assembly-hall.jpg"
+    },
+    {
+      "arena_key": "state-farm-center",
+      "display": "State Farm Center",
+      "opponent": "Illinois",
+      "city": "Champaign, Ill.",
+      "filename": "state-farm-center.jpg",
+      "path": "docs/images/arenas/state-farm-center.jpg"
+    },
+    {
+      "arena_key": "t-mobile-center",
+      "display": "T-Mobile Center",
+      "opponent": "Kansas St.",
+      "city": "Kansas City, Mo.",
+      "filename": "t-mobile-center.jpg",
+      "path": "docs/images/arenas/t-mobile-center.jpg"
+    },
+    {
+      "arena_key": "united-center",
+      "display": "United Center",
+      "opponent": "Big Ten Championship",
+      "city": "Chicago, Ill.",
+      "filename": "united-center.jpg",
+      "path": "docs/images/arenas/united-center.jpg"
+    },
+    {
+      "arena_key": "unknown",
+      "display": "Unknown Arena",
+      "opponent": "Opening Night Presented by SCHEELS",
+      "city": "",
+      "filename": "unknown.jpg",
+      "path": "docs/images/arenas/unknown.jpg"
+    },
+    {
+      "arena_key": "value-city-arena",
+      "display": "Value City Arena",
+      "opponent": "Ohio St.",
+      "city": "Columbus, Ohio",
+      "filename": "value-city-arena.jpg",
+      "path": "docs/images/arenas/value-city-arena.jpg"
+    },
+    {
+      "arena_key": "welsh-ryan-arena",
+      "display": "Welsh-Ryan Arena",
+      "opponent": "Northwestern",
+      "city": "Evanston, Ill.",
+      "filename": "welsh-ryan-arena.jpg",
+      "path": "docs/images/arenas/welsh-ryan-arena.jpg"
+    },
+    {
+      "arena_key": "williams-arena",
+      "display": "Williams Arena",
+      "opponent": "Minnesota",
+      "city": "Minneapolis, Minn.",
+      "filename": "williams-arena.jpg",
+      "path": "docs/images/arenas/williams-arena.jpg"
+    }
+  ]
 }
