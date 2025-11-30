@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-11-29T13:35:31.624603+00:00",
+  "scraped_at": "2025-11-30T07:28:14.633902+00:00",
   "items": [
     {
       "date": null,
@@ -406,7 +406,7 @@
     {
       "date": null,
       "date_text": "NOV 29",
-      "time_local": "1:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
       "nu_rank": null,
       "opp_rank": null,
@@ -416,8 +416,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/iZeL1tR6A3T6NiMHaJ9NcRASgfySm2NxYSiYvuTm.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "72-63"
+      },
       "links": [
         {
           "title": "Opens in a new window",
@@ -426,6 +429,22 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Boxscore (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/29/2xeM3tBB8wVMBeQQxel3W54N5CHJRLLek7nwysBv.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23732"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/29/huskers-remain-perfect-with-72-63-win"
         }
       ],
       "divider_text": "vs."
