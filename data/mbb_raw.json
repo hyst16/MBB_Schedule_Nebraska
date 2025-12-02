@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-01T13:46:37.238375+00:00",
+  "scraped_at": "2025-12-02T07:33:54.699608+00:00",
   "items": [
     {
       "date": null,
@@ -399,6 +399,10 @@
         {
           "title": "Box Score",
           "href": "https://huskers.com/boxscore/23731"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/26/mbb-vs-winthrop-recap"
         }
       ],
       "divider_text": "vs."
@@ -472,6 +476,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
@@ -499,6 +507,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb",
+          "href": "https://huskers.com/sports/mens-basketball/Live Stats"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
         }
       ],
       "divider_text": "vs."
@@ -553,6 +569,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
@@ -580,6 +604,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
         }
       ],
       "divider_text": "vs."

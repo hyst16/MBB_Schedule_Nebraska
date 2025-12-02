@@ -1101,6 +1101,10 @@
         {
           "title": "Box Score",
           "href": "https://huskers.com/boxscore/23731"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/26/mbb-vs-winthrop-recap"
         }
       ]
     },
@@ -1177,6 +1181,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ]
     },
@@ -1207,6 +1215,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb",
+          "href": "https://huskers.com/sports/mens-basketball/Live Stats"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
         }
       ]
     },
@@ -1267,6 +1283,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ]
     },
@@ -1297,6 +1321,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Purchase Tickets",
+          "href": "https://huskers.evenue.net/list/GS"
         }
       ]
     }
