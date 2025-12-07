@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-06T13:35:28.475939+00:00",
+  "scraped_at": "2025-12-07T07:28:55.053432+00:00",
   "items": [
     {
       "date": null,
@@ -509,8 +509,8 @@
           "href": "https://huskers.com/listen"
         },
         {
-          "title": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb",
-          "href": "https://huskers.com/sports/mens-basketball/Live Stats"
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         },
         {
           "title": "Purchase Tickets",
