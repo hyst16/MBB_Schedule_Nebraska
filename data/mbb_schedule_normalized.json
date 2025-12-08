@@ -1156,7 +1156,7 @@
     },
     {
       "date": "2025-12-07",
-      "time_local": "4:00 PM CST",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Creighton",
@@ -1169,9 +1169,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/yw3V4xJPrpfSmNdpJ7FlojR0crWvl0Glu32q0M2l.svg",
       "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 71-50",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -1185,6 +1185,18 @@
         {
           "title": "Live stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/08/TGp2ZRvTQXVMRtkLhfXVUzJxIdkhBJDB09h5uGwD.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23733"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/8/huskers-stay-unbeaten-with-71-50-win-over-creighton"
         }
       ]
     },
