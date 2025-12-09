@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-08T13:46:10.856563+00:00",
+  "scraped_at": "2025-12-09T07:34:22.467764+00:00",
   "items": [
     {
       "date": null,
@@ -504,7 +504,7 @@
       "date_text": "DEC 10",
       "time_local": "8:00 PM CST",
       "venue_type": "H",
-      "nu_rank": null,
+      "nu_rank": 23,
       "opp_rank": null,
       "opponent_name": "Wisconsin",
       "city": "Lincoln, Neb",
@@ -539,8 +539,8 @@
       "date_text": "DEC 13",
       "time_local": "3:00 PM CST",
       "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
+      "nu_rank": 23,
+      "opp_rank": 13,
       "opponent_name": "Illinois",
       "city": "Champaign, Ill.",
       "arena": "State Farm Center",
