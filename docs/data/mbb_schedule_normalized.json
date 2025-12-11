@@ -1202,7 +1202,7 @@
     },
     {
       "date": "2025-12-10",
-      "time_local": "8:00 PM CST",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": 23,
       "opponent": "Wisconsin",
@@ -1215,9 +1215,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 90-60",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -1235,6 +1235,18 @@
         {
           "title": "Purchase Tickets",
           "href": "https://huskers.evenue.net/list/GS"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://huskers.com/postgame-notes-and-quotes-vs-wisconsin-121025"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24093"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/11/big-red-rolls-90-60-over-wisconsin"
         }
       ]
     },
@@ -1260,11 +1272,15 @@
       "links": [
         {
           "title": "",
-          "href": "https://www.peacocktv.com/?cid=2401libgenpkpdsearch16851&utm_campaign=2401libgen&utm_source=pk_ggl&utm_medium=pd_search_acq_srcpy&utm_term=6481429429&utm_content=73015049690_718162897395&gclsrc=aw.ds&gad_source=1&gad_campaignid=6481429429&gbraid=0AAAAACqY"
+          "href": "https://peacocktv.app.link/yM29sqdZQYb"
         },
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ]
     },
