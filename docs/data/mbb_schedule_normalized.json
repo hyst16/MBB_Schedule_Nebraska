@@ -1252,7 +1252,7 @@
     },
     {
       "date": "2025-12-13",
-      "time_local": "3:00 PM CST",
+      "time_local": null,
       "home_away": "A",
       "nu_rank": 23,
       "opponent": "Illinois",
@@ -1265,9 +1265,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
       "tv_logo": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 83-80",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -1281,6 +1281,18 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/13/7SgGNTbSgz6ufV0JppvW8ay8WYPfzwiHRz321cDB.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24103"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/13/sandfort-posts-career-high-in-buzzer-beater-win-over-no-13-illinois"
         }
       ]
     },

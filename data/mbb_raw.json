@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-13T13:36:12.909855+00:00",
+  "scraped_at": "2025-12-14T07:30:12.646304+00:00",
   "items": [
     {
       "date": null,
@@ -552,7 +552,7 @@
     {
       "date": null,
       "date_text": "DEC 13",
-      "time_local": "3:00 PM CST",
+      "time_local": null,
       "venue_type": "A",
       "nu_rank": 23,
       "opp_rank": 13,
@@ -562,8 +562,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "83-80"
+      },
       "links": [
         {
           "title": "",
@@ -576,6 +579,18 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/13/7SgGNTbSgz6ufV0JppvW8ay8WYPfzwiHRz321cDB.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24103"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/13/sandfort-posts-career-high-in-buzzer-beater-win-over-no-13-illinois"
         }
       ],
       "divider_text": "at"
