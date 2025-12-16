@@ -53,6 +53,7 @@ def parse_date_from_text(label: str, season_year: int) -> str | None:
 
 def normalize(items: list, scraped_at: str):
     """Convert raw items to a simple, sorted list suitable for the UI."""
+    # Treat the scrape year as the season "start" year (e.g., 2025–26 -> 2025)
     try:
         season_year = datetime.fromisoformat((scraped_at or "").replace("Z", "+00:00")).year
     except Exception:
@@ -61,12 +62,29 @@ def normalize(items: list, scraped_at: str):
     rows = []
     for it in items:
         # --- DATE: prefer ISO, else parse visible month/day text ---
-        date_iso = it.get("date") or parse_date_from_text(it.get("date_text"), season_year)
-        if not date_iso:
+        raw_date = it.get("date") or parse_date_from_text(it.get("date_text"), season_year)
+        if not raw_date:
             continue  # skip if we still couldn't get a date
 
-        # --- Keep only rows from the current season ---
-        if not str(date_iso).startswith(f"{season_year}-"):
+        # Normalize into a season-spanning year:
+        # July–December -> season_year
+        # January–June  -> season_year + 1
+        try:
+            y_str, m_str, d_str = raw_date.split("-")
+            m = int(m_str)
+            d = int(d_str)
+        except Exception:
+            continue
+
+        if 7 <= m <= 12:
+            y = season_year
+        else:  # 1–6 -> next calendar year
+            y = season_year + 1
+
+        date_iso = f"{y:04d}-{m:02d}-{d:02d}"
+
+        # Paranoid guard: only keep games from these two years
+        if y < season_year or y > season_year + 1:
             continue
 
         han = it.get("venue_type") or "N"
@@ -84,11 +102,19 @@ def normalize(items: list, scraped_at: str):
         result_str = None
         result_css = None
         if res:
-            # Example: {"outcome": "W", "sets": "3-1"} -> "W 3-1"
+            # Example: {"outcome": "W", "sets": "90-80"} -> "W 90-80"
             result_str = f"{res.get('outcome')} {res.get('sets')}"
             result_css = {"W": "W", "L": "L", "T": "T"}.get(res.get("outcome"))
 
-        opp = it.get("opponent_name") or "TBA"
+        # --- Opponent & Big Ten Tournament placeholders ---
+        opp_raw = (it.get("opponent_name") or "").strip()
+
+        # Drop placeholder Big Ten Tournament rows such as:
+        # "Big Ten First Round", "Big Ten Semifinals", etc.
+        if opp_raw.lower().startswith("big ten "):
+            continue
+
+        opp = opp_raw or "TBA"
         opp_rank = it.get("opp_rank")
         nu_rank  = it.get("nu_rank")
 
@@ -120,6 +146,7 @@ def normalize(items: list, scraped_at: str):
     # Sorted by date then time (null times sorted last)
     rows.sort(key=lambda x: (x.get("date") or "9999-12-31", x.get("time_local") or "23:59"))
     return rows
+
 
 def main():
     raw = json.loads(RAW.read_text("utf-8")) if RAW.exists() else {}
