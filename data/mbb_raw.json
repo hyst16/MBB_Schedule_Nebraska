@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-15T13:50:39.904896+00:00",
+  "scraped_at": "2025-12-16T07:34:15.051100+00:00",
   "items": [
     {
       "date": null,
@@ -600,7 +600,7 @@
       "date_text": "DEC 21",
       "time_local": "7:00 PM CST",
       "venue_type": "H",
-      "nu_rank": null,
+      "nu_rank": 15,
       "opp_rank": null,
       "opponent_name": "North Dakota",
       "city": "Lincoln, Neb.",
