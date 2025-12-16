@@ -155,10 +155,22 @@
 
   /* ---------------------------------------------------------
      CHOOSE "NEXT" GAME
-     - First non-final with a date; else last item
+     - First game on or after *today* that is not final
+     - If everything is in the past, fall back to the last game
      --------------------------------------------------------- */
-  const upcoming = sched.filter(g => g.status !== "final" && g.date).sort((a,b) => a.date.localeCompare(b.date));
+  const now = new Date();
+  const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+  const upcoming = sched
+    .filter(g => {
+      if (!g.date) return false;
+      const d = new Date(g.date + "T00:00:00");
+      return d >= todayMidnight && g.status !== "final";
+    })
+    .sort((a, b) => a.date.localeCompare(b.date));
+
   const nextGame = upcoming[0] || sched[sched.length - 1];
+
 
   /* ---------------------------------------------------------
      HERO RENDER
