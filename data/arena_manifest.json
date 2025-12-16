@@ -43,8 +43,8 @@
     {
       "arena_key": "pinnacle-bank-arena",
       "display": "Pinnacle Bank Arena",
-      "opponent": "New Hampshire",
-      "city": "Lincoln, Neb.",
+      "opponent": "Iowa",
+      "city": "Lincoln, Neb",
       "filename": "pinnacle-bank-arena.jpg",
       "path": "docs/images/arenas/pinnacle-bank-arena.jpg"
     },
@@ -79,14 +79,6 @@
       "city": "Kansas City, Mo.",
       "filename": "t-mobile-center.jpg",
       "path": "docs/images/arenas/t-mobile-center.jpg"
-    },
-    {
-      "arena_key": "united-center",
-      "display": "United Center",
-      "opponent": "Big Ten Championship",
-      "city": "Chicago, Ill.",
-      "filename": "united-center.jpg",
-      "path": "docs/images/arenas/united-center.jpg"
     },
     {
       "arena_key": "unknown",
