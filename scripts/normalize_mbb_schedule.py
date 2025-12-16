@@ -6,7 +6,9 @@ Key behaviors:
 - Keep opponent title as plain text (no "#N " prefix).
 - Preserve nu_rank / opp_rank as numbers for pill rendering.
 - Parse dates robustly (prefer ISO from scraper; fallback to visible month/day).
-- Filter out games not in the current season.
+- Handle fall–spring seasons that span two calendar years.
+- Skip "Opening Night Presented by SCHEELS" (NU vs NU scrimmage).
+- Skip generic Big Ten Tournament placeholders ("Big Ten First Round", etc.).
 - Sort chronologically.
 """
 import json
@@ -21,10 +23,9 @@ OUT  = DATA / "mbb_schedule_normalized.json"
 
 CENTRAL = tz.gettz("America/Chicago")
 
-# Canonical 3-letter month mapping (case-insensitive; allows "Sept."/"September")
 MONTH_IDX = {
-    "jan":1, "feb":2, "mar":3, "apr":4, "may":5, "jun":6,
-    "jul":7, "aug":8, "sep":9, "oct":10, "nov":11, "dec":12,
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
 }
 
 def slug(s: str) -> str:
@@ -33,10 +34,21 @@ def slug(s: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "-", s)
     return re.sub(r"-+", "-", s).strip("-")
 
-def parse_date_from_text(label: str, season_year: int) -> str | None:
+def detect_season_start_year(scraped: datetime) -> int:
+    """
+    For fall–spring sports:
+    - If we scraped in Jan–Mar, assume the season started the previous year.
+    - Otherwise, assume it started in the current year.
+    """
+    if scraped.month <= 3:
+        return scraped.year - 1
+    return scraped.year
+
+def parse_date_from_text(label: str, season_start_year: int) -> str | None:
     """
     Accepts 'AUG 22', 'Sep 5', 'Sept. 5', 'September 5' (case-insensitive).
     Returns 'YYYY-MM-DD' or None.
+    Uses season_start_year for Aug–Dec and season_start_year+1 for Jan–Jul.
     """
     if not label:
         return None
@@ -44,47 +56,49 @@ def parse_date_from_text(label: str, season_year: int) -> str | None:
     if not m:
         return None
     mon_token = m.group(1).replace(".", "")
-    mon_key = mon_token[:3].lower()   # AUG -> aug, Sept -> sep, September -> sep
+    mon_key = mon_token[:3].lower()
     mon = MONTH_IDX.get(mon_key)
     if not mon:
         return None
     day = int(m.group(2))
-    return f"{season_year:04d}-{mon:02d}-{day:02d}"
+
+    year = season_start_year
+    if mon < 8:  # Jan–Jul are in the following calendar year
+        year = season_start_year + 1
+
+    return f"{year:04d}-{mon:02d}-{day:02d}"
 
 def normalize(items: list, scraped_at: str):
     """Convert raw items to a simple, sorted list suitable for the UI."""
-    # Treat the scrape year as the season "start" year (e.g., 2025–26 -> 2025)
     try:
-        season_year = datetime.fromisoformat((scraped_at or "").replace("Z", "+00:00")).year
+        scraped = datetime.fromisoformat((scraped_at or "").replace("Z", "+00:00")).astimezone(CENTRAL)
     except Exception:
-        season_year = datetime.now(CENTRAL).year
+        scraped = datetime.now(CENTRAL)
+
+    season_start_year = detect_season_start_year(scraped)
 
     rows = []
     for it in items:
-        # --- DATE: prefer ISO, else parse visible month/day text ---
-        raw_date = it.get("date") or parse_date_from_text(it.get("date_text"), season_year)
-        if not raw_date:
-            continue  # skip if we still couldn't get a date
-
-        # Normalize into a season-spanning year:
-        # July–December -> season_year
-        # January–June  -> season_year + 1
-        try:
-            y_str, m_str, d_str = raw_date.split("-")
-            m = int(m_str)
-            d = int(d_str)
-        except Exception:
+        # --- Opponent / filters (Opening Night + Big Ten placeholders) ---
+        raw_opp = (it.get("opponent_name") or "").strip()
+        if not raw_opp:
             continue
 
-        if 7 <= m <= 12:
-            y = season_year
-        else:  # 1–6 -> next calendar year
-            y = season_year + 1
+        opp_lower = raw_opp.lower()
 
-        date_iso = f"{y:04d}-{m:02d}-{d:02d}"
+        # Drop the NU vs NU scrimmage
+        if "opening night presented by scheels" in opp_lower:
+            continue
 
-        # Paranoid guard: only keep games from these two years
-        if y < season_year or y > season_year + 1:
+        # Drop generic Big Ten Tournament placeholders (First Round, Second Round, etc.)
+        if opp_lower.startswith("big ten "):
+            continue
+
+        # --- DATE: prefer ISO, else parse visible month/day text ---
+        date_iso = it.get("date")
+        if not date_iso:
+            date_iso = parse_date_from_text(it.get("date_text"), season_start_year)
+        if not date_iso:
             continue
 
         han = it.get("venue_type") or "N"
@@ -92,34 +106,27 @@ def normalize(items: list, scraped_at: str):
         city  = (it.get("city") or "").strip() or None
         arena = (it.get("arena") or "").strip() or None
         if arena:
-            # Trim any sponsor suffixes after "presented by ..."
             arena = re.sub(r"\s*presented by\b.*$", "", arena, flags=re.I).strip()
         arena_key = slug(arena or "unknown")
 
         # --- Result / status ---
         res = it.get("result")
-        status = "final" if res else "scheduled"
+        # If scraper already had status, trust "final" vs not; otherwise infer from result.
+        status = it.get("status") or ("final" if res else "scheduled")
+        if status not in ("final", "scheduled", "tbd"):
+            status = "scheduled" if not res else "final"
+
         result_str = None
         result_css = None
         if res:
-            # Example: {"outcome": "W", "sets": "90-80"} -> "W 90-80"
             result_str = f"{res.get('outcome')} {res.get('sets')}"
             result_css = {"W": "W", "L": "L", "T": "T"}.get(res.get("outcome"))
 
-        # --- Opponent & Big Ten Tournament placeholders ---
-        opp_raw = (it.get("opponent_name") or "").strip()
-
-        # Drop placeholder Big Ten Tournament rows such as:
-        # "Big Ten First Round", "Big Ten Semifinals", etc.
-        if opp_raw.lower().startswith("big ten "):
-            continue
-
-        opp = opp_raw or "TBA"
+        opp = raw_opp or "TBA"
         opp_rank = it.get("opp_rank")
         nu_rank  = it.get("nu_rank")
 
-        # IMPORTANT: title is plain text — no "#N " prefix here
-        title = opp
+        title = opp  # plain opponent name, no rank prefix
 
         rows.append({
             "date": date_iso,
@@ -128,14 +135,14 @@ def normalize(items: list, scraped_at: str):
             "nu_rank": nu_rank,
             "opponent": opp,
             "opp_rank": opp_rank,
-            "title": title,                   # plain, no rank prefix
+            "title": title,
             "arena": arena,
             "city": city,
             "arena_key": arena_key,
             "nu_logo": it.get("nebraska_logo_url"),
             "opp_logo": it.get("opponent_logo_url"),
             "tv_logo": it.get("tv_network_logo_url"),
-            "tv": it.get("networks") or [],   # rarely used; logos preferred
+            "tv": it.get("networks") or [],
             "status": status,
             "result": result_str,
             "result_css": result_css,
@@ -143,10 +150,9 @@ def normalize(items: list, scraped_at: str):
             "links": it.get("links") or [],
         })
 
-    # Sorted by date then time (null times sorted last)
+    # Sort by date then time (null times sorted last)
     rows.sort(key=lambda x: (x.get("date") or "9999-12-31", x.get("time_local") or "23:59"))
     return rows
-
 
 def main():
     raw = json.loads(RAW.read_text("utf-8")) if RAW.exists() else {}
