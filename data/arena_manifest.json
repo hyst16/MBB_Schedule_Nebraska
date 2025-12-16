@@ -81,14 +81,6 @@
       "path": "docs/images/arenas/t-mobile-center.jpg"
     },
     {
-      "arena_key": "unknown",
-      "display": "Unknown Arena",
-      "opponent": "Opening Night Presented by SCHEELS",
-      "city": "",
-      "filename": "unknown.jpg",
-      "path": "docs/images/arenas/unknown.jpg"
-    },
-    {
       "arena_key": "value-city-arena",
       "display": "Value City Arena",
       "opponent": "Ohio St.",

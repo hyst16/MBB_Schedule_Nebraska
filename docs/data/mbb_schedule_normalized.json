@@ -1,38 +1,12 @@
 {
   "items": [
     {
-      "date": "2025-09-19",
-      "time_local": "6:30 PM CDT",
-      "home_away": "N",
-      "nu_rank": null,
-      "opponent": "Opening Night Presented by SCHEELS",
-      "opp_rank": null,
-      "title": "Opening Night Presented by SCHEELS",
-      "arena": null,
-      "city": null,
-      "arena_key": "unknown",
-      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opp_logo": null,
-      "tv_logo": null,
-      "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
-      "notes": null,
-      "links": [
-        {
-          "title": "Preview",
-          "href": "https://huskers.com/news/2025/09/18/opening-night-slated-for-friday-night-in-the-railyard"
-        }
-      ]
-    },
-    {
       "date": "2025-10-18",
       "time_local": null,
       "home_away": "H",
       "nu_rank": 8,
       "opponent": "BYU (Exhibition)",
-      "opp_rank": 8,
+      "opp_rank": null,
       "title": "BYU (Exhibition)",
       "arena": "Pinnacle Bank Arena",
       "city": "Lincoln, Neb.",
