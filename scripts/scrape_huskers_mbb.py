@@ -115,26 +115,31 @@ def parse_event(ev):
         opp_rank = int(m.group(1))
         opponent_name = m.group(2).strip()
 
-    # 2) Try to read any "#N" tokens from the entire images/rank strip (very reliable)
-    rank_strip = safe_text(ev.locator(".schedule-event-item-default__images")) or ""
-    nums = re.findall(r"#\s*(\d{1,2})", rank_strip)
-    # Visual order is NU icon (left) then opponent (right)
-    nu_rank = int(nums[0]) if len(nums) >= 1 else None
-    opp_rank = opp_rank if opp_rank is not None else (int(nums[1]) if len(nums) >= 2 else None)
-
-    # 3) Safety net: some templates have explicit rank nodes; check those if we still missed
-    if nu_rank is None:
-        txt = safe_text(ev.locator(".schedule-event-item-default__home-rank, .schedule-event-item-default__nebraska-rank, .schedule-event-item-default__rank--home"))
-        if txt:
-            mnu = re.search(r"#\s*(\d{1,2})", txt)
-            if mnu:
-                nu_rank = int(mnu.group(1))
-    if opp_rank is None:
-        txt = safe_text(ev.locator(".schedule-event-item-default__opponent-rank, .schedule-event-item-default__rank--away"))
-        if txt:
-            mop = re.search(r"#\s*(\d{1,2})", txt)
-            if mop:
-                opp_rank = int(mop.group(1))
+    # 2) Try to read ranks located near each logo wrapper
+    nu_rank = None
+    opp_rank = opp_rank  # may already have come from opponent_name
+    
+    wrappers = ev.locator(".schedule-event-item-default__images .schedule-event-item-default__image-wrapper")
+    if wrappers.count() >= 1:
+        left_txt = safe_text(wrappers.nth(0))
+        mnu = re.search(r"#\s*(\d{1,2})", left_txt or "")
+        if mnu:
+            nu_rank = int(mnu.group(1))
+    
+    if wrappers.count() >= 2:
+        right_txt = safe_text(wrappers.nth(1))
+        mop = re.search(r"#\s*(\d{1,2})", right_txt or "")
+        if mop:
+            opp_rank = int(mop.group(1))
+    
+    # 3) Fallback: if still missing, look anywhere in the strip
+    if nu_rank is None or opp_rank is None:
+        rank_strip = safe_text(ev.locator(".schedule-event-item-default__images")) or ""
+        nums = re.findall(r"#\s*(\d{1,2})", rank_strip)
+        if nu_rank is None and len(nums) >= 1:
+            nu_rank = int(nums[0])
+        if opp_rank is None and len(nums) >= 2:
+            opp_rank = int(nums[1])
 
     # -------------------- Result / Time --------------------
     has_win  = ev.locator(".schedule-event-item-result__win").count() > 0
