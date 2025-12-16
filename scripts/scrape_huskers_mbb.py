@@ -128,33 +128,28 @@ def parse_event(ev):
 
     nu_rank = None
 
-    # 2) Read any "#N" tokens from the images/rank strip
-    rank_strip = safe_text(ev.locator(".schedule-event-item-default__images")) or ""
-    nums = [int(n) for n in re.findall(r"#\s*(\d{1,2})", rank_strip)]
+    # 2) Look for rank text inside each logo wrapper.
+    #    Wrapper 0  -> Nebraska logo
+    #    Wrapper 1  -> Opponent logo
+    wrappers = ev.locator(
+        ".schedule-event-item-default__images .schedule-event-item-default__image-wrapper"
+    )
 
-    # Cases:
-    # - Both teams ranked: two numbers → [NU, OPP]
-    # - Only Nebraska ranked: one number & we DIDN'T already see "#N Team" in opponent_name
-    # - Only opponent ranked: one number but we already parsed opp_rank from the name
-    if opp_rank is None:
-        if len(nums) == 1:
-            # Single rank, no opponent rank from name → belongs to Nebraska
-            nu_rank = nums[0]
-        elif len(nums) >= 2:
-            nu_rank = nums[0]
-            opp_rank = nums[1]
-    else:
-        # We already know the opponent rank from text like "#8 BYU".
-        # Only assign a Nebraska rank if we see a *second* distinct rank.
-        if len(nums) >= 2:
-            for n in nums:
-                if n != opp_rank:
-                    nu_rank = n
-                    break
-            if nu_rank is None and nums:
-                nu_rank = nums[0]
+    # Nebraska rank: only read from the FIRST wrapper
+    if wrappers.count() >= 1:
+        left_txt = safe_text(wrappers.nth(0)) or ""
+        mnu = re.search(r"#\s*(\d{1,2})", left_txt)
+        if mnu:
+            nu_rank = int(mnu.group(1))
 
-    # 3) Safety net: some templates have explicit rank nodes
+    # Opponent rank: read from SECOND wrapper if we don't already have it from the name
+    if wrappers.count() >= 2 and opp_rank is None:
+        right_txt = safe_text(wrappers.nth(1)) or ""
+        mop = re.search(r"#\s*(\d{1,2})", right_txt)
+        if mop:
+            opp_rank = int(mop.group(1))
+
+    # 3) Safety net: some templates have explicit rank nodes; check those if we still missed
     if nu_rank is None:
         txt = safe_text(
             ev.locator(
@@ -179,6 +174,7 @@ def parse_event(ev):
             mop = re.search(r"#\s*(\d{1,2})", txt)
             if mop:
                 opp_rank = int(mop.group(1))
+
 
     # -------------------- Result / Time --------------------
     has_win  = ev.locator(".schedule-event-item-result__win").count() > 0
