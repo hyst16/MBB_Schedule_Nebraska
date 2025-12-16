@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-16T16:39:06.933038+00:00",
+  "scraped_at": "2025-12-16T17:18:14.591753+00:00",
   "items": [
     {
       "date": null,
@@ -30,8 +30,8 @@
       "date_text": "OCT 18",
       "time_local": null,
       "venue_type": "H",
-      "nu_rank": 8,
-      "opp_rank": null,
+      "nu_rank": null,
+      "opp_rank": 8,
       "opponent_name": "BYU (Exhibition)",
       "city": "Lincoln, Neb.",
       "arena": "Pinnacle Bank Arena",
