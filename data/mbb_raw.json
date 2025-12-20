@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-19T13:43:59.498218+00:00",
+  "scraped_at": "2025-12-20T07:29:14.673543+00:00",
   "items": [
     {
       "date": null,
@@ -626,6 +626,14 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Game Day Page",
+          "href": "https://huskers.com/2025-26-mbb-gameday"
+        },
+        {
+          "title": "Preview",
+          "href": "https://huskers.com/news/2025/12/19/no-15-huskers-host-north-dakota-sunday-night"
         }
       ],
       "divider_text": "vs."
