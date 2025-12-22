@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-21T13:37:08.418435+00:00",
+  "scraped_at": "2025-12-22T07:35:02.690221+00:00",
   "items": [
     {
       "date": null,
@@ -598,7 +598,7 @@
     {
       "date": null,
       "date_text": "DEC 21",
-      "time_local": "7:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
       "nu_rank": 15,
       "opp_rank": null,
@@ -608,8 +608,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSu7n0RFEafc47fiDhWGmW9x0pXXwtfGUyT3hH2y.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "78-55"
+      },
       "links": [
         {
           "title": "",
@@ -632,8 +635,12 @@
           "href": "https://huskers.com/2025-26-mbb-gameday"
         },
         {
-          "title": "Preview",
-          "href": "https://huskers.com/news/2025/12/19/no-15-huskers-host-north-dakota-sunday-night"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/22/TjJUkTdZvy0Wl9YGuw9RMZRwTRD0LEhgWWw6Sggj.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23734"
         }
       ],
       "divider_text": "vs."

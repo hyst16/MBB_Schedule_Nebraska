@@ -572,7 +572,7 @@
     },
     {
       "date": "2025-12-21",
-      "time_local": "7:00 PM CST",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": 15,
       "opponent": "North Dakota",
@@ -585,9 +585,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSu7n0RFEafc47fiDhWGmW9x0pXXwtfGUyT3hH2y.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 78-55",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -611,8 +611,12 @@
           "href": "https://huskers.com/2025-26-mbb-gameday"
         },
         {
-          "title": "Preview",
-          "href": "https://huskers.com/news/2025/12/19/no-15-huskers-host-north-dakota-sunday-night"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/22/TjJUkTdZvy0Wl9YGuw9RMZRwTRD0LEhgWWw6Sggj.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23734"
         }
       ]
     },
