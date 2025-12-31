@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2025-12-30T13:47:02.643864+00:00",
+  "scraped_at": "2025-12-31T07:34:49.952943+00:00",
   "items": [
     {
       "date": null,
@@ -648,9 +648,9 @@
     {
       "date": null,
       "date_text": "DEC 30",
-      "time_local": "8:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
-      "nu_rank": null,
+      "nu_rank": 13,
       "opp_rank": null,
       "opponent_name": "New Hampshire",
       "city": "Lincoln, Neb.",
@@ -658,8 +658,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZuSEXY1Rrx3yccGOZFuwh9vFWoZNDM2lAscWNptt.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "86-55"
+      },
       "links": [
         {
           "title": "",
@@ -676,6 +679,18 @@
         {
           "title": "Purchase Tickets",
           "href": "https://huskers.evenue.net/list/GS"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/31/wivPrVi5w065O6wGrGjPL4mnqOUGHe4y3pQWtnVn.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23735"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/31/no-13-huskers-tame-wildcats-86-55"
         }
       ],
       "divider_text": "vs."

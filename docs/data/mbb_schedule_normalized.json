@@ -622,9 +622,9 @@
     },
     {
       "date": "2025-12-30",
-      "time_local": "8:00 PM CST",
+      "time_local": null,
       "home_away": "H",
-      "nu_rank": null,
+      "nu_rank": 13,
       "opponent": "New Hampshire",
       "opp_rank": null,
       "title": "New Hampshire",
@@ -635,9 +635,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZuSEXY1Rrx3yccGOZFuwh9vFWoZNDM2lAscWNptt.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 86-55",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -655,6 +655,18 @@
         {
           "title": "Purchase Tickets",
           "href": "https://huskers.evenue.net/list/GS"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/31/wivPrVi5w065O6wGrGjPL4mnqOUGHe4y3pQWtnVn.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23735"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/31/no-13-huskers-tame-wildcats-86-55"
         }
       ]
     },
