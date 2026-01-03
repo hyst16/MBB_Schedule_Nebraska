@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-01-02T13:43:34.828208+00:00",
+  "scraped_at": "2026-01-03T07:30:49.304234+00:00",
   "items": [
     {
       "date": null,
@@ -698,18 +698,21 @@
     {
       "date": null,
       "date_text": "JAN 2",
-      "time_local": "8:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
+      "nu_rank": 13,
+      "opp_rank": 9,
       "opponent_name": "Michigan St.",
       "city": "Lincoln, Neb",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "58-56"
+      },
       "links": [
         {
           "title": "",
@@ -722,6 +725,22 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/0c3af988-44e5-44bc-9040-cf853e99bcf5.pdf"
+        },
+        {
+          "title": "Postgame Press Conference",
+          "href": "https://www.youtube.com/watch?v=jqGypnzm1nI"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24094"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/3/huskers-outlast-no-9-spartans"
         }
       ],
       "divider_text": "vs."

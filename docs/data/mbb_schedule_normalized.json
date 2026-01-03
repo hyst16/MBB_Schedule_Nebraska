@@ -672,11 +672,11 @@
     },
     {
       "date": "2026-01-02",
-      "time_local": "8:00 PM CST",
+      "time_local": null,
       "home_away": "H",
-      "nu_rank": null,
+      "nu_rank": 13,
       "opponent": "Michigan St.",
-      "opp_rank": null,
+      "opp_rank": 9,
       "title": "Michigan St.",
       "arena": "Pinnacle Bank Arena",
       "city": "Lincoln, Neb",
@@ -685,9 +685,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
       "tv_logo": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 58-56",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -701,6 +701,22 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/0c3af988-44e5-44bc-9040-cf853e99bcf5.pdf"
+        },
+        {
+          "title": "Postgame Press Conference",
+          "href": "https://www.youtube.com/watch?v=jqGypnzm1nI"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24094"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/3/huskers-outlast-no-9-spartans"
         }
       ]
     },
