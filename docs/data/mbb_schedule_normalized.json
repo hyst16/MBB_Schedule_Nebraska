@@ -21,15 +21,11 @@
       "notes": null,
       "links": [
         {
-          "title": "Watch",
+          "title": "",
           "href": "https://www.bigtenplus.com/en-int/page/btn-social-one-free-month"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Boxscore",
+          "title": "Final Stats (PDF)",
           "href": "https://huskers.com/documents/f86f4ac1-da3c-408a-9dd3-4eae900e7fba.pdf"
         },
         {
@@ -65,10 +61,6 @@
         {
           "title": "Opens in a new window",
           "href": "https://www.bigtenplus.com/en-int/page/home"
-        },
-        {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
         },
         {
           "title": "Live Stats",
@@ -109,8 +101,12 @@
           "href": "https://www.bigtenplus.com/en-int/page/home"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/024ad6b1-68a2-4344-8675-853dce680e78.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/3/mbb-vs-west-georgia-2025-photos"
         },
         {
           "title": "Box Score",
@@ -143,20 +139,16 @@
       "notes": null,
       "links": [
         {
-          "title": "Photo Gallery",
-          "href": "https://huskers.com/news/2025/11/8/mbb-vs-fiu"
-        },
-        {
-          "title": "B1G+",
+          "title": "",
           "href": "https://www.bigtenplus.com/en-int/page/home"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/08/p0iY8IG8VpA5rpeUsWi5OyRhjTK7OcLgF8VxSbpy.pdf"
         },
         {
-          "title": "Box Score (PDF)",
-          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/08/p0iY8IG8VpA5rpeUsWi5OyRhjTK7OcLgF8VxSbpy.pdf"
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/8/mbb-vs-fiu"
         },
         {
           "title": "Box Score",
@@ -193,8 +185,12 @@
           "href": "https://www.bigtenplus.com/en-int/page/home"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/36bb7efd-dccb-42d9-b671-9440ecba9a15.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/11/mbb-vs-umes-photos"
         },
         {
           "title": "Box Score",
@@ -219,7 +215,7 @@
       "arena_key": "sanford-pentagon",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/orQVuqsPelcPonGHGUT51dBoZPSSkNvNVsdcJMGO.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "final",
       "result": "W 105-99",
@@ -227,7 +223,7 @@
       "notes": null,
       "links": [
         {
-          "title": "BTN",
+          "title": "",
           "href": "http://foxsports.com/live"
         },
         {
@@ -269,15 +265,7 @@
           "href": "https://www.peacocktv.com/"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Tickets",
-          "href": "https://www.axs.com/series/28924/2025-hall-of-fame-classic-nebraska-tickets?skin=tmobilecenter"
-        },
-        {
-          "title": "Boxscore (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/21/bwrEY5vh8okEueup5tAUzJc0c3DssEqL4hwfceaT.pdf"
         },
         {
@@ -315,19 +303,7 @@
           "href": "https://www.peacocktv.com/?cid=2401libgenpkpdsearch16851&utm_campaign=2401libgen&utm_source=pk_ggl&utm_medium=pd_search_acq_srcpy&utm_term=6481429429&utm_content=73015049690_718162897395&gclsrc=aw.ds&gad_source=1&gad_campaignid=6481429429&gbraid=0AAAAACqY"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Tickets",
-          "href": "https://www.axs.com/series/28924/2025-hall-of-fame-classic-nebraska-tickets?skin=tmobilecenter"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://stats.statbroadcast.com/statmonitr/?id=609636&_gl=1*kqu60a*_ga*MTM1MzQ5MDE1OS4xNzYzNjc2ODg3*_ga_2ZWVK1X7BJ*czE3NjM3Nzc2NjckbzIkZzAkdDE3NjM3Nzc2NjckajYwJGwwJGgw"
-        },
-        {
-          "title": "Boxscore (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/22/L3NwporiCTndNsOMgsH50rHv6Esmn7b2XzJZwFTc.pdf"
         },
         {
@@ -365,12 +341,12 @@
           "href": "http://foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/26/Ht3QZQbt15rtgmLTPbjBGOB8g6m59RQhmCfFZ40p.pdf"
         },
         {
-          "title": "Box Score (PDF)",
-          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/26/Ht3QZQbt15rtgmLTPbjBGOB8g6m59RQhmCfFZ40p.pdf"
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/25/mbb-vs-winthrop-photos"
         },
         {
           "title": "Box Score",
@@ -407,16 +383,12 @@
           "href": "https://www.bigtenplus.com/en-int/page/home"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Boxscore (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/29/2xeM3tBB8wVMBeQQxel3W54N5CHJRLLek7nwysBv.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/29/mbb-vs-usc-upstate-photo"
         },
         {
           "title": "Box Score",
@@ -453,16 +425,12 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Box Score (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/08/TGp2ZRvTQXVMRtkLhfXVUzJxIdkhBJDB09h5uGwD.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/7/mbb-vs-creighton-2025-photos"
         },
         {
           "title": "Box Score",
@@ -499,20 +467,12 @@
           "href": "http://foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Purchase Tickets",
-          "href": "https://huskers.evenue.net/list/GS"
-        },
-        {
-          "title": "Box Score (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/11/PTA57s1DN5Z1jJ7pZTuqJHpHwVbscgRkLuNii95w.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/10/mbb-vs-wisconsin-2025-photos"
         },
         {
           "title": "Box Score",
@@ -549,15 +509,7 @@
           "href": "https://peacocktv.app.link/yM29sqdZQYb"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Box Score (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/13/7SgGNTbSgz6ufV0JppvW8ay8WYPfzwiHRz321cDB.pdf"
         },
         {
@@ -595,28 +547,20 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Purchase Tickets",
-          "href": "https://huskers.evenue.net/list/GS"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Game Day Page",
-          "href": "https://huskers.com/2025-26-mbb-gameday"
-        },
-        {
-          "title": "Box Score (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/22/TjJUkTdZvy0Wl9YGuw9RMZRwTRD0LEhgWWw6Sggj.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/21/mbb-vs-north-dakota-2025-photos"
         },
         {
           "title": "Box Score",
           "href": "https://huskers.com/boxscore/23734"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/22/buyuktuncels-triple-double-leads-huskers-past-north-dakota"
         }
       ]
     },
@@ -645,20 +589,12 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
-          "title": "Purchase Tickets",
-          "href": "https://huskers.evenue.net/list/GS"
-        },
-        {
-          "title": "Box Score (PDF)",
+          "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/31/wivPrVi5w065O6wGrGjPL4mnqOUGHe4y3pQWtnVn.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/30/mbb-vs-new-hampshire-2025-photos"
         },
         {
           "title": "Box Score",
@@ -695,20 +631,12 @@
           "href": "https://www.peacocktv.com/watch/asset/sports/michigan-state-vs.-nebraska/2f0ff56c-c331-3574-a943-f85204da6ded"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
-        },
-        {
           "title": "Final Stats (PDF)",
           "href": "https://huskers.com/documents/0c3af988-44e5-44bc-9040-cf853e99bcf5.pdf"
         },
         {
-          "title": "Postgame Press Conference",
-          "href": "https://www.youtube.com/watch?v=jqGypnzm1nI"
+          "title": "Photos",
+          "href": "https://huskers.com/news/2026/1/2/mbb-vs-michigan-state-2026-photos"
         },
         {
           "title": "Box Score",
