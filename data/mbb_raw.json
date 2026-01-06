@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-01-05T13:50:39.309478+00:00",
+  "scraped_at": "2026-01-06T07:37:17.635186+00:00",
   "items": [
     {
       "date": null,
@@ -676,9 +676,9 @@
     {
       "date": null,
       "date_text": "JAN 5",
-      "time_local": "5:30 PM CST",
+      "time_local": null,
       "venue_type": "A",
-      "nu_rank": null,
+      "nu_rank": 10,
       "opp_rank": null,
       "opponent_name": "Ohio St.",
       "city": "Columbus, Ohio",
@@ -686,20 +686,27 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZypwLlH96dLBs8GTvlqdMhyWpV4IgVGyCUAQpTrb.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "72-69"
+      },
       "links": [
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/06/Ma2PSXtFiXKgLAfaEracsI9Rl8CHK5zBQal8XnjC.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24104"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/6/huskers-hang-on-to-remain-unbeaten"
         }
       ],
       "divider_text": "at"
@@ -709,7 +716,7 @@
       "date_text": "JAN 10",
       "time_local": "11:00 AM CST",
       "venue_type": "A",
-      "nu_rank": null,
+      "nu_rank": 10,
       "opp_rank": null,
       "opponent_name": "Indiana",
       "city": "Bloomington, Ind.",
