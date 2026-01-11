@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-01-10T13:38:47.490219+00:00",
+  "scraped_at": "2026-01-11T07:32:32.926166+00:00",
   "items": [
     {
       "date": null,
@@ -714,7 +714,7 @@
     {
       "date": null,
       "date_text": "JAN 10",
-      "time_local": "11:00 AM CST",
+      "time_local": null,
       "venue_type": "A",
       "nu_rank": 10,
       "opp_rank": null,
@@ -724,20 +724,27 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/x7OWZFHnQkE6RLMJeEnOT6Lz4NZiLtRmlAGr8w1h.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "83-77"
+      },
       "links": [
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/10/IuRERKgqDgxnkbb8ROPR9sdhqk9P2LTwy0OZkdFq.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24105"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/10/huskers-rally-to-top-hoosiers"
         }
       ],
       "divider_text": "at"
