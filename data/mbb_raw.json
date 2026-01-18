@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-01-17T07:30:51.289484+00:00",
+  "scraped_at": "2026-01-18T07:31:47.610537+00:00",
   "items": [
     {
       "date": null,
@@ -773,10 +773,6 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
           "title": "Box Score (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/14/RSSOk0QG1nkKGLq4CfqBwK5rJrcvMMmpAbNb2dHe.pdf"
         },
@@ -794,7 +790,7 @@
     {
       "date": null,
       "date_text": "JAN 17",
-      "time_local": "3:00 PM CST",
+      "time_local": null,
       "venue_type": "A",
       "nu_rank": 8,
       "opp_rank": null,
@@ -804,20 +800,27 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/1UQISSq3eRDnRJIAjeXGWar8aTYdy9GWB56k0WDg.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "77-58"
+      },
       "links": [
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/17/Ce85auxtw84IHKynvHdZIwE48bsH96QQnqnFvxgX.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24106"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/17/huskers-move-to-18-0-with-win-at-northwestern"
         }
       ],
       "divider_text": "at"
