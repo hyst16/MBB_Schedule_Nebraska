@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-01-23T13:52:03.348293+00:00",
+  "scraped_at": "2026-01-24T07:31:43.307218+00:00",
   "items": [
     {
       "date": null,
@@ -890,6 +890,14 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Preview",
+          "href": "https://huskers.com/news/2026/01/23/no-7-huskers-travel-to-minnesota-on-saturday"
         }
       ],
       "divider_text": "at"
@@ -912,11 +920,15 @@
       "links": [
         {
           "title": "",
-          "href": "https://www.peacocktv.com/?cid=2401libgenpkpdsearch16851&utm_campaign=2401libgen&utm_source=pk_ggl&utm_medium=pd_search_acq_srcpy&utm_term=6481429429&utm_content=73015049690_718162897395&gclsrc=aw.ds&gad_source=1&gad_campaignid=6481429429&gbraid=0AAAAACqY"
+          "href": "https://www.peacocktv.com/watch/asset/sports/nebraska-vs.-michigan/67b63532-59fa-36eb-bde6-5b3c6127e046"
         },
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
         }
       ],
       "divider_text": "at"
