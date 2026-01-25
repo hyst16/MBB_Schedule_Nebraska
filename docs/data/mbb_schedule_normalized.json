@@ -825,10 +825,6 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
           "title": "Final Stats (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/22/rXILTfpRKhrqHAnZenijqsWdtGprKspxxrubtc8R.pdf"
         },
@@ -844,7 +840,7 @@
     },
     {
       "date": "2026-01-24",
-      "time_local": "11:00 AM CST",
+      "time_local": null,
       "home_away": "A",
       "nu_rank": 7,
       "opponent": "Minnesota",
@@ -855,28 +851,24 @@
       "arena_key": "williams-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/C3Z8GJ3Nxf8uQOj0yM8sNk4HpOGW5qVREe71F2Ao.svg",
-      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "tv_logo": null,
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 76-57",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
-          "title": "",
-          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/24/fm2E5tAarIaHtisHqtdbuFp88QaJyfvUH1SGQMtN.pdf"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24107"
         },
         {
-          "title": "Live Stats",
-          "href": "http://nebraska.statbroadcast.com/"
-        },
-        {
-          "title": "Preview",
-          "href": "https://huskers.com/news/2026/01/23/no-7-huskers-travel-to-minnesota-on-saturday"
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/24/dominant-second-half-moves-huskers-to-20-0"
         }
       ]
     },
