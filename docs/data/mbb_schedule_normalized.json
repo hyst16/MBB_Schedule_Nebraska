@@ -912,7 +912,7 @@
     },
     {
       "date": "2026-02-01",
-      "time_local": "3:00 PM CST",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Illinois",
@@ -925,9 +925,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
       "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 69-78",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
@@ -937,6 +937,18 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/01/ddPuzPRKlU3Ss7Bf38cCVHf7NLtHO0nKH1p5iKfW.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24097"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/2/no-5-huskers-fall-78-69-to-no-9-illinois"
         }
       ]
     },
