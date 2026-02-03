@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-02-02T14:07:36.123739+00:00",
+  "scraped_at": "2026-02-03T07:54:28.911782+00:00",
   "items": [
     {
       "date": null,
@@ -902,8 +902,8 @@
       "date_text": "JAN 27",
       "time_local": null,
       "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
+      "nu_rank": 5,
+      "opp_rank": 3,
       "opponent_name": "Michigan",
       "city": "Ann Arbor, Mich.",
       "arena": "Crisler Center",
@@ -940,8 +940,8 @@
       "date_text": "FEB 1",
       "time_local": null,
       "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
+      "nu_rank": 5,
+      "opp_rank": 9,
       "opponent_name": "Illinois",
       "city": "Lincoln, Neb",
       "arena": "Pinnacle Bank Arena",
