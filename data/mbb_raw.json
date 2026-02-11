@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-02-10T14:37:51.887188+00:00",
+  "scraped_at": "2026-02-11T08:01:15.096199+00:00",
   "items": [
     {
       "date": null,
@@ -1018,18 +1018,21 @@
     {
       "date": null,
       "date_text": "FEB 10",
-      "time_local": "6:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
+      "nu_rank": 7,
+      "opp_rank": 13,
       "opponent_name": "Purdue",
       "city": "Lincoln, Neb",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "77-80"
+      },
       "links": [
         {
           "title": "",
@@ -1038,6 +1041,18 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Boxscore PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/11/WYCL2xdkZBMsSLGSksmewboHP69HeplVVYba6dwj.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24098"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/11/no-7-nebraska-falls-in-overtime-to-no-13-purdue-80-77"
         }
       ],
       "divider_text": "vs."
@@ -1065,6 +1080,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://stats.statbroadcast.com/broadcast/?id=613563"
         }
       ],
       "divider_text": "vs."
@@ -1092,6 +1111,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://stats.statbroadcast.com/broadcast/?id=612334"
         }
       ],
       "divider_text": "at"
@@ -1119,6 +1142,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://stats.statbroadcast.com/broadcast/?id=613548"
         }
       ],
       "divider_text": "vs."
