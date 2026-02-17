@@ -1074,7 +1074,7 @@
       "date": "2026-02-17",
       "time_local": "8:00 PM CST",
       "home_away": "A",
-      "nu_rank": null,
+      "nu_rank": 9,
       "opponent": "Iowa",
       "opp_rank": null,
       "title": "Iowa",
@@ -1101,6 +1101,10 @@
         {
           "title": "Live Stats",
           "href": "https://stats.statbroadcast.com/broadcast/?id=612334"
+        },
+        {
+          "title": "Preview",
+          "href": "https://huskers.com/news/2026/02/16/no-9-huskers-head-to-iowa-tuesday-evening"
         }
       ]
     },
@@ -1108,7 +1112,7 @@
       "date": "2026-02-21",
       "time_local": "1:00 PM CST",
       "home_away": "H",
-      "nu_rank": null,
+      "nu_rank": 9,
       "opponent": "Penn State",
       "opp_rank": null,
       "title": "Penn State",
@@ -1165,6 +1169,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
         }
       ]
     },
@@ -1195,6 +1203,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
         }
       ]
     },
@@ -1225,6 +1237,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
         }
       ]
     },
@@ -1255,6 +1271,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
         }
       ]
     }
