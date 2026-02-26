@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-02-25T14:15:16.133840+00:00",
+  "scraped_at": "2026-02-26T07:58:21.731843+00:00",
   "items": [
     {
       "date": null,
@@ -1182,7 +1182,7 @@
     {
       "date": null,
       "date_text": "FEB 25",
-      "time_local": "6:00 PM CST",
+      "time_local": null,
       "venue_type": "H",
       "nu_rank": 12,
       "opp_rank": null,
@@ -1192,8 +1192,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ckTPjX0bKvYj5KB1p9hAJSOCO7AGA5nbrXGR4JD7.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "74-61"
+      },
       "links": [
         {
           "title": "",
@@ -1204,8 +1207,16 @@
           "href": "https://huskers.com/listen"
         },
         {
-          "title": "Live Stats",
-          "href": "http://nebraska.statbroadcast.com/"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/26/AGqge0RsCTbpBNc6WHhoUM4uPS92FZ1BhIlAW6ux.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24101"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/26/strong-second-half-lifts-no-12-nebraska-past-maryland"
         }
       ],
       "divider_text": "vs."
