@@ -1198,7 +1198,7 @@
     },
     {
       "date": "2026-02-28",
-      "time_local": "3:00 PM CST",
+      "time_local": null,
       "home_away": "A",
       "nu_rank": 12,
       "opponent": "Southern California",
@@ -1211,9 +1211,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/UahJy09xytmTXBAdfHeKv65Npu0KNztpHnkwIgsh.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 82-67",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -1227,6 +1227,14 @@
         {
           "title": "Live Stats",
           "href": "http://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24111"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/1/sandfort-defense-lifts-huskers-to-25th-win"
         }
       ]
     },
