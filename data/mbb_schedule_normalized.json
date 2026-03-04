@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-03-03",
-      "time_local": "10:00 PM CST",
+      "time_local": null,
       "home_away": "A",
       "nu_rank": 9,
       "opponent": "UCLA",
@@ -1253,9 +1253,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
       "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 52-72",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
@@ -1269,6 +1269,14 @@
         {
           "title": "Live Stats",
           "href": "http://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24112"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/4/huskers-fall-at-ucla"
         }
       ]
     },
