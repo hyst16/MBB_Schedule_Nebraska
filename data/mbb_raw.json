@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-09T07:56:45.560648+00:00",
+  "scraped_at": "2026-03-09T14:12:17.719241+00:00",
   "items": [
     {
       "date": null,
@@ -1342,7 +1342,7 @@
     {
       "date": null,
       "date_text": "MAR 13",
-      "time_local": "TBA",
+      "time_local": "5:30 PM CDT",
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -1366,6 +1366,10 @@
         {
           "title": "Live Stats",
           "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+        },
+        {
+          "title": "Big Ten Tournament Central",
+          "href": "https://bigten.org/mbb/article/58675/"
         }
       ],
       "divider_text": "vs."
@@ -1373,7 +1377,7 @@
     {
       "date": null,
       "date_text": "MAR 14",
-      "time_local": "12/2:30 p.m.",
+      "time_local": "2:30 PM CDT",
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -1389,6 +1393,10 @@
         {
           "title": "",
           "href": "https://www.paramountplus.com/?gclsrc=aw.ds&ds_rl=1289065&ftag=PPM-02-10aeg8j&vndid=google$null$null$paramount%20plus&gad_source=1&gad_campaignid=17873670690&gbraid=0AAAAADtO7xG2VuHZOf06z_fU-hM0GQfjE&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqePsfnAAzbrtzpTo34ee3rz"
+        },
+        {
+          "title": "Big Ten Tournament Central",
+          "href": "https://bigten.org/mbb/article/58675/"
         }
       ],
       "divider_text": "vs."
@@ -1412,6 +1420,10 @@
         {
           "title": "",
           "href": "https://www.paramountplus.com/?gclsrc=aw.ds&ds_rl=1289065&ftag=PPM-02-10aeg8j&vndid=google$null$null$paramount%20plus&gad_source=1&gad_campaignid=17873670690&gbraid=0AAAAADtO7xG2VuHZOf06z_fU-hM0GQfjE&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqePsfnAAzbrtzpTo34ee3rz"
+        },
+        {
+          "title": "Big Ten Tournament Central",
+          "href": "https://bigten.org/mbb/article/58675/"
         }
       ],
       "divider_text": "vs."
