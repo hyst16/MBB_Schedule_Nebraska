@@ -1282,7 +1282,7 @@
     },
     {
       "date": "2026-03-08",
-      "time_local": "4:00 PM CDT",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": 9,
       "opponent": "Iowa",
@@ -1295,9 +1295,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
       "tv_logo": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 84-75",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -1305,12 +1305,12 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24102"
         },
         {
-          "title": "Live Stats",
-          "href": "http://nebraska.statbroadcast.com/"
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/9/no-9-huskers-match-school-record-with-overtime-win-over-iowa"
         }
       ]
     }

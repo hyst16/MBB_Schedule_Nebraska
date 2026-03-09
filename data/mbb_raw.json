@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-08T13:48:36.943753+00:00",
+  "scraped_at": "2026-03-09T07:56:45.560648+00:00",
   "items": [
     {
       "date": null,
@@ -1308,7 +1308,7 @@
     {
       "date": null,
       "date_text": "MAR 8",
-      "time_local": "4:00 PM CDT",
+      "time_local": null,
       "venue_type": "H",
       "nu_rank": 9,
       "opp_rank": null,
@@ -1318,43 +1318,23 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "84-75"
+      },
       "links": [
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24102"
         },
         {
-          "title": "Live Stats",
-          "href": "http://nebraska.statbroadcast.com/"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "MAR 12",
-      "time_local": "TBA",
-      "venue_type": "N",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Big Ten Third Round",
-      "city": "Chicago, Ill.",
-      "arena": "United Center",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
-      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
-      "links": [
-        {
-          "title": "",
-          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/9/no-9-huskers-match-school-record-with-overtime-win-over-iowa"
         }
       ],
       "divider_text": "vs."
@@ -1378,6 +1358,14 @@
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
