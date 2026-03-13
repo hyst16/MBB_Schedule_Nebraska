@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-12T14:08:55.890277+00:00",
+  "scraped_at": "2026-03-13T07:55:19.417708+00:00",
   "items": [
     {
       "date": null,
@@ -1344,13 +1344,13 @@
       "date_text": "MAR 13",
       "time_local": "5:30 PM CDT",
       "venue_type": "N",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Big Ten Quarterfinals",
+      "nu_rank": 11,
+      "opp_rank": 18,
+      "opponent_name": "Purdue",
       "city": "Chicago, Ill.",
       "arena": "United Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "status": "scheduled",
       "result": null,
@@ -1365,7 +1365,7 @@
         },
         {
           "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "href": "https://www.statbroadcast.com/events/conference.php?id=b10"
         },
         {
           "title": "Big Ten Tournament Central",
@@ -1397,6 +1397,14 @@
         {
           "title": "Big Ten Tournament Central",
           "href": "https://bigten.org/mbb/article/58675/"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/conference.php?id=b10"
         }
       ],
       "divider_text": "vs."

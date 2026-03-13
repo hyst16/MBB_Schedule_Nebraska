@@ -81,6 +81,14 @@
       "path": "docs/images/arenas/t-mobile-center.jpg"
     },
     {
+      "arena_key": "united-center",
+      "display": "United Center",
+      "opponent": "Purdue",
+      "city": "Chicago, Ill.",
+      "filename": "united-center.jpg",
+      "path": "docs/images/arenas/united-center.jpg"
+    },
+    {
       "arena_key": "value-city-arena",
       "display": "Value City Arena",
       "opponent": "Ohio St.",

@@ -1313,6 +1313,44 @@
           "href": "https://huskers.com/news/2026/03/9/no-9-huskers-match-school-record-with-overtime-win-over-iowa"
         }
       ]
+    },
+    {
+      "date": "2026-03-13",
+      "time_local": "5:30 PM CDT",
+      "home_away": "N",
+      "nu_rank": 11,
+      "opponent": "Purdue",
+      "opp_rank": 18,
+      "title": "Purdue",
+      "arena": "United Center",
+      "city": "Chicago, Ill.",
+      "arena_key": "united-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/conference.php?id=b10"
+        },
+        {
+          "title": "Big Ten Tournament Central",
+          "href": "https://bigten.org/mbb/article/58675/"
+        }
+      ]
     }
   ]
 }
