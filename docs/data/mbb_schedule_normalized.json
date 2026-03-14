@@ -1316,7 +1316,7 @@
     },
     {
       "date": "2026-03-13",
-      "time_local": "5:30 PM CDT",
+      "time_local": null,
       "home_away": "N",
       "nu_rank": 11,
       "opponent": "Purdue",
@@ -1329,9 +1329,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 58-74",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
@@ -1349,6 +1349,18 @@
         {
           "title": "Big Ten Tournament Central",
           "href": "https://bigten.org/mbb/article/58675/"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/14/5A0JsmAaDfGWpdI0dNHhU9XqThCEazVKCeqTCY0K.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24117"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/14/mbb-recap-vs-purdue-3-13-26"
         }
       ]
     }

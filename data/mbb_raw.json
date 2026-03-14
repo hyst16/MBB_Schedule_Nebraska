@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-13T14:05:37.169927+00:00",
+  "scraped_at": "2026-03-14T07:50:06.077978+00:00",
   "items": [
     {
       "date": null,
@@ -1342,7 +1342,7 @@
     {
       "date": null,
       "date_text": "MAR 13",
-      "time_local": "5:30 PM CDT",
+      "time_local": null,
       "venue_type": "N",
       "nu_rank": 11,
       "opp_rank": 18,
@@ -1352,8 +1352,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "58-74"
+      },
       "links": [
         {
           "title": "",
@@ -1370,68 +1373,18 @@
         {
           "title": "Big Ten Tournament Central",
           "href": "https://bigten.org/mbb/article/58675/"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "MAR 14",
-      "time_local": "2:30 PM CDT",
-      "venue_type": "N",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Big Ten Semifinals",
-      "city": "Chicago, Ill.",
-      "arena": "United Center",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
-      "tv_network_logo_url": "https://huskers.com/imgproxy/0BFjgPsmU4eISMkXWWy__2QV5IbvvI980lhr3nIy4TM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9kMEZKOGpCSGxOejJ5a3hHM0ExVmZvSVlsWkY2VGdsUGtJdXRvWDM3LnBuZw.png",
-      "status": "scheduled",
-      "result": null,
-      "links": [
-        {
-          "title": "",
-          "href": "https://www.paramountplus.com/?gclsrc=aw.ds&ds_rl=1289065&ftag=PPM-02-10aeg8j&vndid=google$null$null$paramount%20plus&gad_source=1&gad_campaignid=17873670690&gbraid=0AAAAADtO7xG2VuHZOf06z_fU-hM0GQfjE&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqePsfnAAzbrtzpTo34ee3rz"
         },
         {
-          "title": "Big Ten Tournament Central",
-          "href": "https://bigten.org/mbb/article/58675/"
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/14/5A0JsmAaDfGWpdI0dNHhU9XqThCEazVKCeqTCY0K.pdf"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24117"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/conference.php?id=b10"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "MAR 15",
-      "time_local": "2:30 PM CDT",
-      "venue_type": "N",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Big Ten Championship",
-      "city": "Chicago, Ill.",
-      "arena": "United Center",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
-      "tv_network_logo_url": "https://huskers.com/imgproxy/0BFjgPsmU4eISMkXWWy__2QV5IbvvI980lhr3nIy4TM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9kMEZKOGpCSGxOejJ5a3hHM0ExVmZvSVlsWkY2VGdsUGtJdXRvWDM3LnBuZw.png",
-      "status": "scheduled",
-      "result": null,
-      "links": [
-        {
-          "title": "",
-          "href": "https://www.paramountplus.com/?gclsrc=aw.ds&ds_rl=1289065&ftag=PPM-02-10aeg8j&vndid=google$null$null$paramount%20plus&gad_source=1&gad_campaignid=17873670690&gbraid=0AAAAADtO7xG2VuHZOf06z_fU-hM0GQfjE&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqePsfnAAzbrtzpTo34ee3rz"
-        },
-        {
-          "title": "Big Ten Tournament Central",
-          "href": "https://bigten.org/mbb/article/58675/"
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/14/mbb-recap-vs-purdue-3-13-26"
         }
       ],
       "divider_text": "vs."
