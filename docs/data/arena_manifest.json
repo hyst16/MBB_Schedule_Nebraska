@@ -41,6 +41,14 @@
       "path": "docs/images/arenas/pauley-pavilion.jpg"
     },
     {
+      "arena_key": "paycom-center",
+      "display": "Paycom Center",
+      "opponent": "Troy",
+      "city": "Oklahoma City, Okla.",
+      "filename": "paycom-center.jpg",
+      "path": "docs/images/arenas/paycom-center.jpg"
+    },
+    {
       "arena_key": "pinnacle-bank-arena",
       "display": "Pinnacle Bank Arena",
       "opponent": "Iowa",

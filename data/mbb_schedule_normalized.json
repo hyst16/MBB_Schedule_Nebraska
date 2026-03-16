@@ -1363,6 +1363,27 @@
           "href": "https://huskers.com/news/2026/03/14/mbb-recap-vs-purdue-3-13-26"
         }
       ]
+    },
+    {
+      "date": "2026-03-19",
+      "time_local": "11:40 AM CDT",
+      "home_away": "N",
+      "nu_rank": null,
+      "opponent": "Troy",
+      "opp_rank": null,
+      "title": "Troy",
+      "arena": "Paycom Center",
+      "city": "Oklahoma City, Okla.",
+      "arena_key": "paycom-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZXsICuhxvn1ljJkGrLXHJoNRZasLA2HqxSqDVr5z.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-15T13:54:54.080208+00:00",
+  "scraped_at": "2026-03-16T08:15:21.428836+00:00",
   "items": [
     {
       "date": null,
@@ -1387,6 +1387,24 @@
           "href": "https://huskers.com/news/2026/03/14/mbb-recap-vs-purdue-3-13-26"
         }
       ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 19",
+      "time_local": "11:40 AM CDT",
+      "venue_type": "N",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Troy",
+      "city": "Oklahoma City, Okla.",
+      "arena": "Paycom Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZXsICuhxvn1ljJkGrLXHJoNRZasLA2HqxSqDVr5z.svg",
+      "tv_network_logo_url": null,
+      "status": "scheduled",
+      "result": null,
+      "links": [],
       "divider_text": "vs."
     }
   ]
