@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-16T14:37:53.002279+00:00",
+  "scraped_at": "2026-03-17T08:01:56.414759+00:00",
   "items": [
     {
       "date": null,
@@ -1404,7 +1404,12 @@
       "tv_network_logo_url": null,
       "status": "scheduled",
       "result": null,
-      "links": [],
+      "links": [
+        {
+          "title": "truTV",
+          "href": "https://www.trutv.com/watchtrutv"
+        }
+      ],
       "divider_text": "vs."
     }
   ]

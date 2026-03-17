@@ -1383,7 +1383,12 @@
       "result": null,
       "result_css": null,
       "notes": null,
-      "links": []
+      "links": [
+        {
+          "title": "truTV",
+          "href": "https://www.trutv.com/watchtrutv"
+        }
+      ]
     }
   ]
 }
