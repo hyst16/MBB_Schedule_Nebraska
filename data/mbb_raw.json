@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-19T14:12:40.382566+00:00",
+  "scraped_at": "2026-03-20T07:54:08.644511+00:00",
   "items": [
     {
       "date": null,
@@ -1392,9 +1392,9 @@
     {
       "date": null,
       "date_text": "MAR 19",
-      "time_local": "11:40 AM CDT",
+      "time_local": null,
       "venue_type": "N",
-      "nu_rank": null,
+      "nu_rank": 15,
       "opp_rank": null,
       "opponent_name": "Troy",
       "city": "Oklahoma City, Okla.",
@@ -1402,12 +1402,54 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZXsICuhxvn1ljJkGrLXHJoNRZasLA2HqxSqDVr5z.svg",
       "tv_network_logo_url": null,
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "76-47"
+      },
       "links": [
         {
           "title": "truTV",
           "href": "https://www.trutv.com/watchtrutv"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/19/85BTygrgYFkhADVNinXyqlWiPoJoSIceK80Qq8yO.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=gUaMKva0ey0"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24822"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/19/history-made-huskers-earn-first-ncaa-tournament-win"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 21",
+      "time_local": "7:45 PM CDT",
+      "venue_type": "N",
+      "nu_rank": 15,
+      "opp_rank": null,
+      "opponent_name": "Vanderbilt",
+      "city": null,
+      "arena": null,
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/qqvdnHVjFdGJ1KX8BAwvi99j38A52rG8QuGCpBFl.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/10PKuQIS5DyM_YUQl7JW9QIZqMDcfxAM2eix5ZNhqbM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMC9vY2V3TUVSc3VNSEF0dmhqY3NkMUp2NmpnQ2FkYmVUa2g4dkd2Mk5aLnBuZw.png",
+      "status": "scheduled",
+      "result": null,
+      "links": [
+        {
+          "title": "TNT",
+          "href": "https://huskers.com/sports/mens-basketball/ncaa.com/march-madness-live/watch"
         }
       ],
       "divider_text": "vs."
