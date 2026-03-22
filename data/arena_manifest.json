@@ -89,6 +89,14 @@
       "path": "docs/images/arenas/t-mobile-center.jpg"
     },
     {
+      "arena_key": "toyota-center",
+      "display": "Toyota Center",
+      "opponent": "Florida / Iowa",
+      "city": "Houston, Texas",
+      "filename": "toyota-center.jpg",
+      "path": "docs/images/arenas/toyota-center.jpg"
+    },
+    {
       "arena_key": "united-center",
       "display": "United Center",
       "opponent": "Purdue",
