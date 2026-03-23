@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-22T13:51:40.581169+00:00",
+  "scraped_at": "2026-03-23T08:08:10.627744+00:00",
   "items": [
     {
       "date": null,
@@ -1476,19 +1476,24 @@
     {
       "date": null,
       "date_text": "MAR 26",
-      "time_local": "TBA",
+      "time_local": "6:30 PM CDT",
       "venue_type": "N",
       "nu_rank": 15,
       "opp_rank": null,
-      "opponent_name": "Florida / Iowa",
+      "opponent_name": "Iowa",
       "city": "Houston, Texas",
       "arena": "Toyota Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
-      "tv_network_logo_url": null,
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/0yzYLdidKGWYZznRGQ24HN8QuDK1b-mAXEoiiNMjNTY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMy9RYndLb1Q5YnFsa2NOTndrZ2sxZ0JiZ2Z4dWVPb3N0UzhlaVAwTzhiLmpwZw.jpg",
       "status": "scheduled",
       "result": null,
-      "links": [],
+      "links": [
+        {
+          "title": "TBS",
+          "href": "https://www.ncaa.com/march-madness-live/watch"
+        }
+      ],
       "divider_text": "vs."
     }
   ]
