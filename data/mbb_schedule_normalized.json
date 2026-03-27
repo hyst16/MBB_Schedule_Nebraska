@@ -1450,7 +1450,7 @@
     },
     {
       "date": "2026-03-26",
-      "time_local": "6:30 PM CDT",
+      "time_local": null,
       "home_away": "N",
       "nu_rank": 15,
       "opponent": "Iowa",
@@ -1463,14 +1463,30 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
       "tv_logo": "https://huskers.com/imgproxy/0yzYLdidKGWYZznRGQ24HN8QuDK1b-mAXEoiiNMjNTY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMy9RYndLb1Q5YnFsa2NOTndrZ2sxZ0JiZ2Z4dWVPb3N0UzhlaVAwTzhiLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 71-77",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
           "title": "TBS",
           "href": "https://www.ncaa.com/march-madness-live/watch"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/27/VDpgHF5MlhMC4ZcApIselgwwlnDOaoSMPqlTVxTN.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=nvvS1o4YkXc"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24893"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/27/huskers-historic-season-comes-to-an-end-in-sweet-16"
         }
       ]
     }

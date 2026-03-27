@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-03-26T14:43:41.622141+00:00",
+  "scraped_at": "2026-03-27T08:06:21.769606+00:00",
   "items": [
     {
       "date": null,
@@ -1476,7 +1476,7 @@
     {
       "date": null,
       "date_text": "MAR 26",
-      "time_local": "6:30 PM CDT",
+      "time_local": null,
       "venue_type": "N",
       "nu_rank": 15,
       "opp_rank": null,
@@ -1486,12 +1486,31 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/0yzYLdidKGWYZznRGQ24HN8QuDK1b-mAXEoiiNMjNTY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMy9RYndLb1Q5YnFsa2NOTndrZ2sxZ0JiZ2Z4dWVPb3N0UzhlaVAwTzhiLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "71-77"
+      },
       "links": [
         {
           "title": "TBS",
           "href": "https://www.ncaa.com/march-madness-live/watch"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/27/VDpgHF5MlhMC4ZcApIselgwwlnDOaoSMPqlTVxTN.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=nvvS1o4YkXc"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24893"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/27/huskers-historic-season-comes-to-an-end-in-sweet-16"
         }
       ],
       "divider_text": "vs."
