@@ -1,5 +1,1519 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-04-15T14:49:52.691691+00:00",
-  "items": []
+  "scraped_at": "2026-04-16T08:54:59.137125+00:00",
+  "items": [
+    {
+      "date": null,
+      "date_text": "SEP 19",
+      "time_local": "6:30 PM CDT",
+      "venue_type": "N",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Opening Night Presented by SCHEELS",
+      "city": null,
+      "arena": null,
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": null,
+      "tv_network_logo_url": null,
+      "status": "scheduled",
+      "result": null,
+      "links": [
+        {
+          "title": "Preview",
+          "href": "https://huskers.com/news/2025/09/18/opening-night-slated-for-friday-night-in-the-railyard"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "OCT 18",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": 8,
+      "opponent_name": "BYU (Exhibition)",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/5ph5EWM0DQDKrVxJDZtwvzUAnFW1EQAfTkA866CI.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "90-89"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/btn-social-one-free-month"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/f86f4ac1-da3c-408a-9dd3-4eae900e7fba.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23566"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/10/18/mast-shoots-huskers-past-byu"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "OCT 27",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Midland University (Exhibition)",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://huskers.com/imgproxy/4ZCGUYZYkRPHDX8QGxa2hSI80CCw29WiggzPczCJ5lU/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8xMy9raVc4WXRUcVVoeU1EOUhIc1NHNGEzdWF1TzI5MFA4cndTQXkzR2ZsLnBuZw.png",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "91-50"
+      },
+      "links": [
+        {
+          "title": "Opens in a new window",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23727"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/10/28/huskers-cruise-past-midland-91-50"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 3",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "West Georgia",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://huskers.com/imgproxy/mnQ4sKb12e62uH4RkgxrQiLHeWYQV0bjKyboDooAlxc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNS8wNS8zMC9yNk5kN2didW9iamMxd3VkRXdoZ2xGcjl2YXczbFdGQ0tiQWJNVzc4LnBuZw.png",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "86-53"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/024ad6b1-68a2-4344-8675-853dce680e78.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/3/mbb-vs-west-georgia-2025-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23728"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/4/huskers-race-past-wolves-in-season-opener"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 8",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "FIU",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ghd2QA2QNHDSMGWOpxb8ho1aCpHesF9hYMUMWSEB.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "96-66"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/08/p0iY8IG8VpA5rpeUsWi5OyRhjTK7OcLgF8VxSbpy.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/8/mbb-vs-fiu"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23729"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/8/mast-posts-triple-double-in-win-over-fiu"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 11",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Maryland-Eastern Shore",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/7kgQmxVOITIwJWOZBq5BZr99GCk7jg07S2UrRRUW.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "69-50"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/36bb7efd-dccb-42d9-b671-9440ecba9a15.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/11/mbb-vs-umes-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23730"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/12/hoibergs-career-night-leads-huskers-past-umes"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 15",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Oklahoma",
+      "city": "Sioux Falls, S.D.",
+      "arena": "Sanford Pentagon",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/orQVuqsPelcPonGHGUT51dBoZPSSkNvNVsdcJMGO.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "105-99"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "http://foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/a6a31ab1-810f-4601-86b0-d39d5cd00b34.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23570"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/16/huskers-run-past-oklahoma-105-99"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 20",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "New Mexico",
+      "city": "Kansas City, Mo.",
+      "arena": "T-Mobile Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/isW00rSvNwswRGuhX7ECFFVWslTM3kovgOJBENJ4.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "84-72"
+      },
+      "links": [
+        {
+          "title": "Opens in a new window",
+          "href": "https://www.peacocktv.com/"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/21/bwrEY5vh8okEueup5tAUzJc0c3DssEqL4hwfceaT.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23564"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/21/huskers-race-past-lobos"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 21",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Kansas St.",
+      "city": "Kansas City, Mo.",
+      "arena": "T-Mobile Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/3whvSM2imPkAcLflDIm0GWihm5h9ZXWTNy9q5Cj0.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "86-85"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/?cid=2401libgenpkpdsearch16851&utm_campaign=2401libgen&utm_source=pk_ggl&utm_medium=pd_search_acq_srcpy&utm_term=6481429429&utm_content=73015049690_718162897395&gclsrc=aw.ds&gad_source=1&gad_campaignid=6481429429&gbraid=0AAAAACqY"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/22/L3NwporiCTndNsOMgsH50rHv6Esmn7b2XzJZwFTc.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23565"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/22/huskers-edge-kansas-state-for-hall-of-fame-classic-crown"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 25",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Winthrop",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/s7C06MCD6dzVMG8KIvGJFhsZXJkOK0UBCEmcb3nu.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "80-73"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "http://foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/26/Ht3QZQbt15rtgmLTPbjBGOB8g6m59RQhmCfFZ40p.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/25/mbb-vs-winthrop-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23731"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/26/mbb-vs-winthrop-recap"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "NOV 29",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "South Carolina Upstate",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/iZeL1tR6A3T6NiMHaJ9NcRASgfySm2NxYSiYvuTm.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "72-63"
+      },
+      "links": [
+        {
+          "title": "Opens in a new window",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/11/29/2xeM3tBB8wVMBeQQxel3W54N5CHJRLLek7nwysBv.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/11/29/mbb-vs-usc-upstate-photo"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23732"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/11/29/huskers-remain-perfect-with-72-63-win"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "DEC 7",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Creighton",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/yw3V4xJPrpfSmNdpJ7FlojR0crWvl0Glu32q0M2l.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "71-50"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/08/TGp2ZRvTQXVMRtkLhfXVUzJxIdkhBJDB09h5uGwD.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/7/mbb-vs-creighton-2025-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23733"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/8/huskers-stay-unbeaten-with-71-50-win-over-creighton"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "DEC 10",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 23,
+      "opp_rank": null,
+      "opponent_name": "Wisconsin",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "90-60"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "http://foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/11/PTA57s1DN5Z1jJ7pZTuqJHpHwVbscgRkLuNii95w.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/10/mbb-vs-wisconsin-2025-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24093"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/11/big-red-rolls-90-60-over-wisconsin"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "DEC 13",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 23,
+      "opp_rank": 13,
+      "opponent_name": "Illinois",
+      "city": "Champaign, Ill.",
+      "arena": "State Farm Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "83-80"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://peacocktv.app.link/yM29sqdZQYb"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/13/7SgGNTbSgz6ufV0JppvW8ay8WYPfzwiHRz321cDB.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24103"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/13/sandfort-posts-career-high-in-buzzer-beater-win-over-no-13-illinois"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "DEC 21",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 15,
+      "opp_rank": null,
+      "opponent_name": "North Dakota",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSu7n0RFEafc47fiDhWGmW9x0pXXwtfGUyT3hH2y.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "78-55"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/22/TjJUkTdZvy0Wl9YGuw9RMZRwTRD0LEhgWWw6Sggj.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/21/mbb-vs-north-dakota-2025-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23734"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/22/buyuktuncels-triple-double-leads-huskers-past-north-dakota"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "DEC 30",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 13,
+      "opp_rank": null,
+      "opponent_name": "New Hampshire",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZuSEXY1Rrx3yccGOZFuwh9vFWoZNDM2lAscWNptt.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "86-55"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2025/12/31/wivPrVi5w065O6wGrGjPL4mnqOUGHe4y3pQWtnVn.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2025/12/30/mbb-vs-new-hampshire-2025-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/23735"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2025/12/31/no-13-huskers-tame-wildcats-86-55"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "JAN 2",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 13,
+      "opp_rank": 9,
+      "opponent_name": "Michigan St.",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "58-56"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/watch/asset/sports/michigan-state-vs.-nebraska/2f0ff56c-c331-3574-a943-f85204da6ded"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://huskers.com/documents/0c3af988-44e5-44bc-9040-cf853e99bcf5.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2026/1/2/mbb-vs-michigan-state-2026-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24094"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/3/huskers-outlast-no-9-spartans"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "JAN 5",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 10,
+      "opp_rank": null,
+      "opponent_name": "Ohio St.",
+      "city": "Columbus, Ohio",
+      "arena": "Value City Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZypwLlH96dLBs8GTvlqdMhyWpV4IgVGyCUAQpTrb.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "72-69"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/06/Ma2PSXtFiXKgLAfaEracsI9Rl8CHK5zBQal8XnjC.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24104"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/6/huskers-hang-on-to-remain-unbeaten"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "JAN 10",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 10,
+      "opp_rank": null,
+      "opponent_name": "Indiana",
+      "city": "Bloomington, Ind.",
+      "arena": "Simon Skjodt Assembly Hall",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/x7OWZFHnQkE6RLMJeEnOT6Lz4NZiLtRmlAGr8w1h.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "83-77"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/10/IuRERKgqDgxnkbb8ROPR9sdhqk9P2LTwy0OZkdFq.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24105"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/10/huskers-rally-to-top-hoosiers"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "JAN 13",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 8,
+      "opp_rank": null,
+      "opponent_name": "Oregon",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "90-55"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/14/RSSOk0QG1nkKGLq4CfqBwK5rJrcvMMmpAbNb2dHe.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24095"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/14/no-8-huskers-remain-unbeaten-with-90-55-win-over-oregon"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "JAN 17",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 8,
+      "opp_rank": null,
+      "opponent_name": "Northwestern",
+      "city": "Evanston, Ill.",
+      "arena": "Welsh-Ryan Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/1UQISSq3eRDnRJIAjeXGWar8aTYdy9GWB56k0WDg.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "77-58"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/17/Ce85auxtw84IHKynvHdZIwE48bsH96QQnqnFvxgX.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24106"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/17/huskers-move-to-18-0-with-win-at-northwestern"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "JAN 21",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 7,
+      "opp_rank": null,
+      "opponent_name": "Washington",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/aduluAGeTcF8UtJgQe2OQ8NPQ4RdWHL5CNunZmOf.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "76-66"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/26/pMtJdYVRr67LlWkA2tTv6YSJ9bQZdmtwjl64U2Is.pdf"
+        },
+        {
+          "title": "Photos",
+          "href": "https://huskers.com/news/2026/1/21/mbb-vs-washington-2026-photos"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24096"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "JAN 24",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 7,
+      "opp_rank": null,
+      "opponent_name": "Minnesota",
+      "city": "Minneapolis, Minn.",
+      "arena": "Williams Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/C3Z8GJ3Nxf8uQOj0yM8sNk4HpOGW5qVREe71F2Ao.svg",
+      "tv_network_logo_url": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "76-57"
+      },
+      "links": [
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/24/fm2E5tAarIaHtisHqtdbuFp88QaJyfvUH1SGQMtN.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24107"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/24/dominant-second-half-moves-huskers-to-20-0"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "JAN 27",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 5,
+      "opp_rank": 3,
+      "opponent_name": "Michigan",
+      "city": "Ann Arbor, Mich.",
+      "arena": "Crisler Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/VfZOPfPJ8Ps9IldV9Wlg3gdY47UFgUjU17DI6zZE.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "72-75"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/watch/asset/sports/nebraska-vs.-michigan/67b63532-59fa-36eb-bde6-5b3c6127e046"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/01/28/7GJV7jhW6dkJl3c73N3vgokO4jpo7rbsepYLhCUK.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24108"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/01/28/nu-falls-just-short-at-no-3-michigan"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "FEB 1",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 5,
+      "opp_rank": 9,
+      "opponent_name": "Illinois",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "69-78"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/01/ddPuzPRKlU3Ss7Bf38cCVHf7NLtHO0nKH1p5iKfW.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24097"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/2/no-5-huskers-fall-78-69-to-no-9-illinois"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "FEB 7",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 9,
+      "opp_rank": null,
+      "opponent_name": "Rutgers",
+      "city": "Piscataway, N.J.",
+      "arena": "Jersey Mike’s Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/zoaT74wAKvqfSxj4O4pH1n54sO1ObHTHYuqMNWmp.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "80-68"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/07/wbVkGw8TS7tOfnuu19T52qP2v0ohOB4Y1U2Usiyp.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24109"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/7/mast-leads-no-9-huskers-in-80-68-win-at-rutgers"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "FEB 10",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 7,
+      "opp_rank": 13,
+      "opponent_name": "Purdue",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "77-80"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Boxscore PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/11/WYCL2xdkZBMsSLGSksmewboHP69HeplVVYba6dwj.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24098"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/11/no-7-nebraska-falls-in-overtime-to-no-13-purdue-80-77"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "FEB 14",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 7,
+      "opp_rank": null,
+      "opponent_name": "Northwestern",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/1UQISSq3eRDnRJIAjeXGWar8aTYdy9GWB56k0WDg.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "68-49"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Final Stats",
+          "href": "https://huskers.com/documents/198b7274-dc89-4032-8e7b-5ec1b67322a6.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24099"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "FEB 17",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 9,
+      "opp_rank": null,
+      "opponent_name": "Iowa",
+      "city": "Iowa City, Iowa",
+      "arena": "Carver-Hawkeye Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "52-57"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/18/VQ5nvbODmz5ggW2vCleuPgdLjQ7zq48l8uSbKTMp.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24110"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/18/no-9-huskers-fall-at-iowa"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "FEB 21",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 9,
+      "opp_rank": null,
+      "opponent_name": "Penn State",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSnEQOMzqgY8gAPCfxR90DNlJ0vOuXDQfhvTLM4h.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "87-64"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://stats.statbroadcast.com/broadcast/?id=613548"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/21/nrVGThnWNfXd5TSzmBep102AnP0Y6qTtbKHbotZQ.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24100"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/21/sandforts-record-tying-day-carries-huskers-past-penn-state"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "FEB 25",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 12,
+      "opp_rank": null,
+      "opponent_name": "Maryland",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ckTPjX0bKvYj5KB1p9hAJSOCO7AGA5nbrXGR4JD7.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "74-61"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/02/26/AGqge0RsCTbpBNc6WHhoUM4uPS92FZ1BhIlAW6ux.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24101"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/02/26/strong-second-half-lifts-no-12-nebraska-past-maryland"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "FEB 28",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 12,
+      "opp_rank": null,
+      "opponent_name": "Southern California",
+      "city": "Los Angeles, Calif",
+      "arena": "Galen Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/UahJy09xytmTXBAdfHeKv65Npu0KNztpHnkwIgsh.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "82-67"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24111"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/1/sandfort-defense-lifts-huskers-to-25th-win"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "MAR 3",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": 9,
+      "opp_rank": null,
+      "opponent_name": "UCLA",
+      "city": "Los Angeles, Calif",
+      "arena": "Pauley Pavilion",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "52-72"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://nebraska.statbroadcast.com/"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24112"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/4/huskers-fall-at-ucla"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "MAR 8",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": 9,
+      "opp_rank": null,
+      "opponent_name": "Iowa",
+      "city": "Lincoln, Neb",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "84-75"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24102"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/9/no-9-huskers-match-school-record-with-overtime-win-over-iowa"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 13",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": 11,
+      "opp_rank": 18,
+      "opponent_name": "Purdue",
+      "city": "Chicago, Ill.",
+      "arena": "United Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "58-74"
+      },
+      "links": [
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/conference.php?id=b10"
+        },
+        {
+          "title": "Big Ten Tournament Central",
+          "href": "https://bigten.org/mbb/article/58675/"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/14/5A0JsmAaDfGWpdI0dNHhU9XqThCEazVKCeqTCY0K.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24117"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/14/mbb-recap-vs-purdue-3-13-26"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 19",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": 15,
+      "opp_rank": null,
+      "opponent_name": "Troy",
+      "city": "Oklahoma City, Okla.",
+      "arena": "Paycom Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZXsICuhxvn1ljJkGrLXHJoNRZasLA2HqxSqDVr5z.svg",
+      "tv_network_logo_url": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "76-47"
+      },
+      "links": [
+        {
+          "title": "truTV",
+          "href": "https://www.trutv.com/watchtrutv"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/19/85BTygrgYFkhADVNinXyqlWiPoJoSIceK80Qq8yO.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=gUaMKva0ey0"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24822"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/19/history-made-huskers-earn-first-ncaa-tournament-win"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 21",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": 15,
+      "opp_rank": 16,
+      "opponent_name": "Vanderbilt",
+      "city": null,
+      "arena": null,
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/qqvdnHVjFdGJ1KX8BAwvi99j38A52rG8QuGCpBFl.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/10PKuQIS5DyM_YUQl7JW9QIZqMDcfxAM2eix5ZNhqbM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMC9vY2V3TUVSc3VNSEF0dmhqY3NkMUp2NmpnQ2FkYmVUa2g4dkd2Mk5aLnBuZw.png",
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "74-72"
+      },
+      "links": [
+        {
+          "title": "TNT",
+          "href": "https://www.ncaa.com/march-madness-live/watch"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/22/RVytNbN2WRc7llNSDBxfECwwvANpvD9sDuK4bQ0E.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=jGp6bxjU-h8"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24892"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/22/late-rally-punches-huskers-ticket-to-sweet-16"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "MAR 26",
+      "time_local": null,
+      "venue_type": "N",
+      "nu_rank": 15,
+      "opp_rank": null,
+      "opponent_name": "Iowa",
+      "city": "Houston, Texas",
+      "arena": "Toyota Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/0yzYLdidKGWYZznRGQ24HN8QuDK1b-mAXEoiiNMjNTY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMy9RYndLb1Q5YnFsa2NOTndrZ2sxZ0JiZ2Z4dWVPb3N0UzhlaVAwTzhiLmpwZw.jpg",
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "71-77"
+      },
+      "links": [
+        {
+          "title": "TBS",
+          "href": "https://www.ncaa.com/march-madness-live/watch"
+        },
+        {
+          "title": "Final Stats (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/03/27/VDpgHF5MlhMC4ZcApIselgwwlnDOaoSMPqlTVxTN.pdf"
+        },
+        {
+          "title": "Press Conference",
+          "href": "https://www.youtube.com/watch?v=nvvS1o4YkXc"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/24893"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/03/27/huskers-historic-season-comes-to-an-end-in-sweet-16"
+        }
+      ],
+      "divider_text": "vs."
+    }
+  ]
 }
