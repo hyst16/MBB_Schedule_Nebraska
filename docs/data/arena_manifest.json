@@ -1,6 +1,14 @@
 {
   "arenas": [
     {
+      "arena_key": "credit-union-1-arena",
+      "display": "Credit Union 1 Arena",
+      "opponent": "Butler",
+      "city": "Chicago, Ill.",
+      "filename": "credit-union-1-arena.jpg",
+      "path": "docs/images/arenas/credit-union-1-arena.jpg"
+    },
+    {
       "arena_key": "marriott-center",
       "display": "Marriott Center",
       "opponent": "BYU (Exh.)",

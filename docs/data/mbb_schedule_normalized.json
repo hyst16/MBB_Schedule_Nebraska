@@ -105,6 +105,32 @@
       ]
     },
     {
+      "date": "2026-11-22",
+      "time_local": "TBA",
+      "home_away": "N",
+      "nu_rank": null,
+      "opponent": "Butler",
+      "opp_rank": null,
+      "title": "Butler",
+      "arena": "Credit Union 1 Arena",
+      "city": "Chicago, Ill.",
+      "arena_key": "credit-union-1-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/6A9YJ2rwKPwNKptO3nAcptfLFdwlNaHXzyeWdokD.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-12-12",
       "time_local": "TBA",
       "home_away": "N",
