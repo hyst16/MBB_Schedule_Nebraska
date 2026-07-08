@@ -1,6 +1,14 @@
 {
   "arenas": [
     {
+      "arena_key": "chi-health-center",
+      "display": "CHI Health Center",
+      "opponent": "Creighton",
+      "city": "Omaha, Neb.",
+      "filename": "chi-health-center.jpg",
+      "path": "docs/images/arenas/chi-health-center.jpg"
+    },
+    {
       "arena_key": "credit-union-1-arena",
       "display": "Credit Union 1 Arena",
       "opponent": "Butler",

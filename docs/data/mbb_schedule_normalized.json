@@ -131,6 +131,32 @@
       ]
     },
     {
+      "date": "2026-12-05",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Creighton",
+      "opp_rank": null,
+      "title": "Creighton",
+      "arena": "CHI Health Center",
+      "city": "Omaha, Neb.",
+      "arena_key": "chi-health-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/yw3V4xJPrpfSmNdpJ7FlojR0crWvl0Glu32q0M2l.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-12-12",
       "time_local": "TBA",
       "home_away": "N",
