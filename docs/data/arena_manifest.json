@@ -33,14 +33,6 @@
       "path": "docs/images/arenas/mohegan-sun-arena.jpg"
     },
     {
-      "arena_key": "pinnacle-bank-arena",
-      "display": "Pinnacle Bank Arena",
-      "opponent": "Saint Louis (Exh.)",
-      "city": "Lincoln, Neb.",
-      "filename": "pinnacle-bank-arena.jpg",
-      "path": "docs/images/arenas/pinnacle-bank-arena.jpg"
-    },
-    {
       "arena_key": "sanford-pentagon",
       "display": "Sanford Pentagon",
       "opponent": "Boise St.",

@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-09",
-      "time_local": "7:00 PM CDT",
-      "home_away": "H",
-      "nu_rank": null,
-      "opponent": "Saint Louis (Exh.)",
-      "opp_rank": null,
-      "title": "Saint Louis (Exh.)",
-      "arena": "Pinnacle Bank Arena",
-      "city": "Lincoln, Neb.",
-      "arena_key": "pinnacle-bank-arena",
-      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opp_logo": null,
-      "tv_logo": null,
-      "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
-      "notes": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        }
-      ]
-    },
-    {
       "date": "2026-10-16",
       "time_local": "TBA",
       "home_away": "A",

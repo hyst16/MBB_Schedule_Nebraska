@@ -1,30 +1,7 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-07-09T10:31:16.873249+00:00",
+  "scraped_at": "2026-07-09T16:08:37.463182+00:00",
   "items": [
-    {
-      "date": null,
-      "date_text": "OCT 9",
-      "time_local": "7:00 PM CDT",
-      "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Saint Louis (Exh.)",
-      "city": "Lincoln, Neb.",
-      "arena": "Pinnacle Bank Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
-      "tv_network_logo_url": null,
-      "status": "scheduled",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        }
-      ],
-      "divider_text": "vs."
-    },
     {
       "date": null,
       "date_text": "OCT 16",
@@ -154,6 +131,29 @@
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/F9l9kzIIcQ8lOrade7Eo1X3zqnrfQlQEdYOnpQdI.svg",
       "tv_network_logo_url": null,
       "status": "scheduled",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Penn State",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSnEQOMzqgY8gAPCfxR90DNlJ0vOuXDQfhvTLM4h.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
       "result": null,
       "links": [
         {
@@ -374,14 +374,14 @@
       "date": null,
       "date_text": "TBA",
       "time_local": null,
-      "venue_type": "H",
+      "venue_type": "A",
       "nu_rank": null,
       "opp_rank": null,
-      "opponent_name": "Penn State",
-      "city": "Lincoln, Neb.",
-      "arena": "Pinnacle Bank Arena",
+      "opponent_name": "Oregon",
+      "city": "Eugene, Ore.",
+      "arena": "Matthew Knight Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSnEQOMzqgY8gAPCfxR90DNlJ0vOuXDQfhvTLM4h.svg",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
@@ -391,7 +391,7 @@
           "href": "http://huskers.com/listen"
         }
       ],
-      "divider_text": "vs."
+      "divider_text": "at"
     },
     {
       "date": null,
@@ -474,29 +474,6 @@
       "arena": "Kohl Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Oregon",
-      "city": "Eugene, Ore.",
-      "arena": "Matthew Knight Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
