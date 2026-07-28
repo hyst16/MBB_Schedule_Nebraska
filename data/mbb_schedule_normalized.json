@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "date": "2026-10-09",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Saint Louis",
+      "opp_rank": null,
+      "title": "Saint Louis",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": null,
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "time_local": "TBA",
       "home_away": "A",
@@ -23,6 +49,32 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "time_local": "TBA",
+      "home_away": "N",
+      "nu_rank": null,
+      "opponent": "Kansas St.",
+      "opp_rank": null,
+      "title": "Kansas St.",
+      "arena": "BigIron Events Center",
+      "city": "Grand Island, Neb.",
+      "arena_key": "bigiron-events-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/3whvSM2imPkAcLflDIm0GWihm5h9ZXWTNy9q5Cj0.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
         }
       ]
     },

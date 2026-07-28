@@ -1,6 +1,14 @@
 {
   "arenas": [
     {
+      "arena_key": "bigiron-events-center",
+      "display": "BigIron Events Center",
+      "opponent": "Kansas St.",
+      "city": "Grand Island, Neb.",
+      "filename": "bigiron-events-center.jpg",
+      "path": "docs/images/arenas/bigiron-events-center.jpg"
+    },
+    {
       "arena_key": "chi-health-center",
       "display": "CHI Health Center",
       "opponent": "Creighton",
@@ -31,6 +39,14 @@
       "city": "Uncasville, Conn.",
       "filename": "mohegan-sun-arena.jpg",
       "path": "docs/images/arenas/mohegan-sun-arena.jpg"
+    },
+    {
+      "arena_key": "pinnacle-bank-arena",
+      "display": "Pinnacle Bank Arena",
+      "opponent": "Saint Louis",
+      "city": "Lincoln, Neb.",
+      "filename": "pinnacle-bank-arena.jpg",
+      "path": "docs/images/arenas/pinnacle-bank-arena.jpg"
     },
     {
       "arena_key": "sanford-pentagon",
