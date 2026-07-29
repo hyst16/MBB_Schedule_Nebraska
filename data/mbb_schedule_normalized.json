@@ -79,6 +79,32 @@
       ]
     },
     {
+      "date": "2026-11-02",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Le Moyne",
+      "opp_rank": null,
+      "title": "Le Moyne",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": null,
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "time_local": "TBA",
       "home_away": "N",
@@ -105,6 +131,32 @@
       ]
     },
     {
+      "date": "2026-11-11",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Lindenwood",
+      "opp_rank": null,
+      "title": "Lindenwood",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Pfb6ZHzJTu20nPSw4san2P94M4xG5eZZEAR3SDPa.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "time_local": "TBA",
       "home_away": "N",
@@ -117,6 +169,32 @@
       "arena_key": "sanford-pentagon",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/xcTVtuefhPj2rxLdxH08D0Q998qVfQNnBiyBPXBD.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "South Dakota",
+      "opp_rank": null,
+      "title": "South Dakota",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/yngC3j9TnBUolQcp4sipSqbDQnUgnwzKMNi87RID.svg",
       "tv_logo": null,
       "tv": [],
       "status": "scheduled",
@@ -153,6 +231,32 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Southern U.",
+      "opp_rank": null,
+      "title": "Southern U.",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/CmIgygOTqeGLLg9gT8Y6ghcR2DPpHur05rIlvmzM.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
         }
       ]
     },
@@ -205,6 +309,84 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Mount St. Mary's",
+      "opp_rank": null,
+      "title": "Mount St. Mary's",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": null,
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "FDU",
+      "opp_rank": null,
+      "title": "FDU",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/2ORrhfEpeDDoQviw8BpuWuxhG0bMwF72A1JN79z1.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "New Haven",
+      "opp_rank": null,
+      "title": "New Haven",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": null,
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
         }
       ]
     }
