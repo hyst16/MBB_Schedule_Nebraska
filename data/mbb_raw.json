@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-08-18T13:54:29.265452+00:00",
+  "scraped_at": "2026-08-19T07:53:10.997893+00:00",
   "items": [
     {
       "date": null,
@@ -293,7 +293,7 @@
       "city": "Lincoln, Neb.",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
+      "opponent_logo_url": "https://huskers.com/imgproxy/0YNvaFJcStvNYyHISicRsdBm_Sq-7OBmRfdX5TjQGgc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOC9ZVmgxQ2s1VXlCVUZFWE9wclFvbERMN0NsOTNPOFBUclVJaWF3ZU54LnBuZw.png",
       "tv_network_logo_url": null,
       "status": "scheduled",
       "result": null,
@@ -339,7 +339,7 @@
       "city": "Lincoln, Neb.",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": null,
+      "opponent_logo_url": "https://huskers.com/imgproxy/tIV6SFELzs0aTZ53EJmV_5LUFyEumwbmX6I7iunldgY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOC95QWRuZzVzZFl2ZE5BY2tDQll1anhFck92RkJUWTNhck01SUFIQ1NoLnBuZw.png",
       "tv_network_logo_url": null,
       "status": "scheduled",
       "result": null,
@@ -358,11 +358,80 @@
       "venue_type": "H",
       "nu_rank": null,
       "opp_rank": null,
-      "opponent_name": "Indiana",
+      "opponent_name": "UCLA",
       "city": "Lincoln, Neb.",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/x7OWZFHnQkE6RLMJeEnOT6Lz4NZiLtRmlAGr8w1h.svg",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Minnesota",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/C3Z8GJ3Nxf8uQOj0yM8sNk4HpOGW5qVREe71F2Ao.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "USC",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/UahJy09xytmTXBAdfHeKv65Npu0KNztpHnkwIgsh.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "vs."
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "H",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Ohio St.",
+      "city": "Lincoln, Neb.",
+      "arena": "Pinnacle Bank Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZypwLlH96dLBs8GTvlqdMhyWpV4IgVGyCUAQpTrb.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
@@ -450,34 +519,11 @@
       "venue_type": "H",
       "nu_rank": null,
       "opp_rank": null,
-      "opponent_name": "Minnesota",
+      "opponent_name": "Indiana",
       "city": "Lincoln, Neb.",
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/C3Z8GJ3Nxf8uQOj0yM8sNk4HpOGW5qVREe71F2Ao.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Ohio St.",
-      "city": "Lincoln, Neb.",
-      "arena": "Pinnacle Bank Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZypwLlH96dLBs8GTvlqdMhyWpV4IgVGyCUAQpTrb.svg",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/x7OWZFHnQkE6RLMJeEnOT6Lz4NZiLtRmlAGr8w1h.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
@@ -539,167 +585,6 @@
       "date": null,
       "date_text": "TBA",
       "time_local": null,
-      "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "UCLA",
-      "city": "Lincoln, Neb.",
-      "arena": "Pinnacle Bank Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "H",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "USC",
-      "city": "Lincoln, Neb.",
-      "arena": "Pinnacle Bank Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/UahJy09xytmTXBAdfHeKv65Npu0KNztpHnkwIgsh.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "vs."
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Wisconsin",
-      "city": "Madison, Wis.",
-      "arena": "Kohl Center",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Washington",
-      "city": "Seattle, Wash.",
-      "arena": "Alaska Airlines Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/aduluAGeTcF8UtJgQe2OQ8NPQ4RdWHL5CNunZmOf.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Purdue",
-      "city": "West Lafayette, Ind.",
-      "arena": "Mackey Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Illinois",
-      "city": "Champaign, Ill.",
-      "arena": "State Farm Center",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
-      "venue_type": "A",
-      "nu_rank": null,
-      "opp_rank": null,
-      "opponent_name": "Oregon",
-      "city": "Eugene, Ore.",
-      "arena": "Matthew Knight Arena",
-      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
-      "tv_network_logo_url": null,
-      "status": "tbd",
-      "result": null,
-      "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        }
-      ],
-      "divider_text": "at"
-    },
-    {
-      "date": null,
-      "date_text": "TBA",
-      "time_local": null,
       "venue_type": "A",
       "nu_rank": null,
       "opp_rank": null,
@@ -749,11 +634,11 @@
       "venue_type": "A",
       "nu_rank": null,
       "opp_rank": null,
-      "opponent_name": "Maryland",
-      "city": "College Park, Md.",
-      "arena": "XFINITY Center",
+      "opponent_name": "Michigan St.",
+      "city": "East Lansing, Mich.",
+      "arena": "Brelin Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ckTPjX0bKvYj5KB1p9hAJSOCO7AGA5nbrXGR4JD7.svg",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
@@ -795,11 +680,126 @@
       "venue_type": "A",
       "nu_rank": null,
       "opp_rank": null,
-      "opponent_name": "Michigan St.",
-      "city": "East Lansing, Mich.",
-      "arena": "Brelin Center",
+      "opponent_name": "Wisconsin",
+      "city": "Madison, Wis.",
+      "arena": "Kohl Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Purdue",
+      "city": "West Lafayette, Ind.",
+      "arena": "Mackey Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Oregon",
+      "city": "Eugene, Ore.",
+      "arena": "Matthew Knight Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Maryland",
+      "city": "College Park, Md.",
+      "arena": "XFINITY Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/ckTPjX0bKvYj5KB1p9hAJSOCO7AGA5nbrXGR4JD7.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Washington",
+      "city": "Seattle, Wash.",
+      "arena": "Alaska Airlines Arena",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/aduluAGeTcF8UtJgQe2OQ8NPQ4RdWHL5CNunZmOf.svg",
+      "tv_network_logo_url": null,
+      "status": "tbd",
+      "result": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ],
+      "divider_text": "at"
+    },
+    {
+      "date": null,
+      "date_text": "TBA",
+      "time_local": null,
+      "venue_type": "A",
+      "nu_rank": null,
+      "opp_rank": null,
+      "opponent_name": "Illinois",
+      "city": "Champaign, Ill.",
+      "arena": "State Farm Center",
+      "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
       "tv_network_logo_url": null,
       "status": "tbd",
       "result": null,
