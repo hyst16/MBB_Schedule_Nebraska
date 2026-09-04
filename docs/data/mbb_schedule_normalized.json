@@ -106,7 +106,7 @@
     },
     {
       "date": "2026-11-07",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "N",
       "nu_rank": null,
       "opponent": "Providence",
@@ -127,6 +127,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "Purchase Tickets (on sale, 9/4, 9 a.m.)",
+          "href": "https://www.ticketmaster.com/basketball-hall-of-fame-tipoff-uncasville-connecticut-11-07-2026/event/1D0064DE924A3E64"
         }
       ]
     },
@@ -310,6 +314,10 @@
       "result_css": null,
       "notes": null,
       "links": [
+        {
+          "title": "Tickets",
+          "href": "https://www.axs.com/events/1533684/nebraska-vs-missouri-basketball-tickets"
+        },
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"

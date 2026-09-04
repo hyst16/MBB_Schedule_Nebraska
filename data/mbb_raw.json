@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-09-03T17:01:39.155839+00:00",
+  "scraped_at": "2026-09-04T12:07:07.030402+00:00",
   "items": [
     {
       "date": null,
@@ -120,7 +120,7 @@
     {
       "date": null,
       "date_text": "NOV 7",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -136,6 +136,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "Purchase Tickets (on sale, 9/4, 9 a.m.)",
+          "href": "https://www.ticketmaster.com/basketball-hall-of-fame-tipoff-uncasville-connecticut-11-07-2026/event/1D0064DE924A3E64"
         }
       ],
       "divider_text": "vs."
@@ -298,6 +302,10 @@
       "status": "scheduled",
       "result": null,
       "links": [
+        {
+          "title": "Tickets",
+          "href": "https://www.axs.com/events/1533684/nebraska-vs-missouri-basketball-tickets"
+        },
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
