@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-09-14T14:00:43.995994+00:00",
+  "scraped_at": "2026-09-14T18:35:11.215414+00:00",
   "items": [
     {
       "date": null,
@@ -74,7 +74,7 @@
     {
       "date": null,
       "date_text": "OCT 26",
-      "time_local": "TBA",
+      "time_local": "6:30 PM CDT",
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -90,6 +90,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "Tickets (on sale, 9/18, 10 a.m.)",
+          "href": "https://www.ticketmaster.com/event/0600652BBB38C99F"
         }
       ],
       "divider_text": "vs."
