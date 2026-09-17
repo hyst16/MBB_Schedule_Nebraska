@@ -1,12 +1,44 @@
 {
   "arenas": [
     {
+      "arena_key": "alaska-airlines-arena",
+      "display": "Alaska Airlines Arena",
+      "opponent": "Washington",
+      "city": "Seattle, Wash.",
+      "filename": "alaska-airlines-arena.jpg",
+      "path": "docs/images/arenas/alaska-airlines-arena.jpg"
+    },
+    {
       "arena_key": "bigiron-events-center",
       "display": "BigIron Events Center",
       "opponent": "Kansas St. (Exh.)",
       "city": "Grand Island, Neb.",
       "filename": "bigiron-events-center.jpg",
       "path": "docs/images/arenas/bigiron-events-center.jpg"
+    },
+    {
+      "arena_key": "brelin-center",
+      "display": "Brelin Center",
+      "opponent": "Michigan St.",
+      "city": "East Lansing, Mich.",
+      "filename": "brelin-center.jpg",
+      "path": "docs/images/arenas/brelin-center.jpg"
+    },
+    {
+      "arena_key": "bryce-jordan-center",
+      "display": "Bryce Jordan Center",
+      "opponent": "Penn State",
+      "city": "State College, Pa.",
+      "filename": "bryce-jordan-center.jpg",
+      "path": "docs/images/arenas/bryce-jordan-center.jpg"
+    },
+    {
+      "arena_key": "carver-hawkeye-arena",
+      "display": "Carver-Hawkeye Arena",
+      "opponent": "Iowa",
+      "city": "Iowa City, Iowa",
+      "filename": "carver-hawkeye-arena.jpg",
+      "path": "docs/images/arenas/carver-hawkeye-arena.jpg"
     },
     {
       "arena_key": "chi-health-center",
@@ -25,12 +57,36 @@
       "path": "docs/images/arenas/credit-union-1-arena.jpg"
     },
     {
+      "arena_key": "kohl-center",
+      "display": "Kohl Center",
+      "opponent": "Wisconsin",
+      "city": "Madison, Wis.",
+      "filename": "kohl-center.jpg",
+      "path": "docs/images/arenas/kohl-center.jpg"
+    },
+    {
+      "arena_key": "mackey-arena",
+      "display": "Mackey Arena",
+      "opponent": "Purdue",
+      "city": "West Lafayette, Ind.",
+      "filename": "mackey-arena.jpg",
+      "path": "docs/images/arenas/mackey-arena.jpg"
+    },
+    {
       "arena_key": "marriott-center",
       "display": "Marriott Center",
       "opponent": "BYU (Exh.)",
       "city": "Provo, Utah",
       "filename": "marriott-center.jpg",
       "path": "docs/images/arenas/marriott-center.jpg"
+    },
+    {
+      "arena_key": "matthew-knight-arena",
+      "display": "Matthew Knight Arena",
+      "opponent": "Oregon",
+      "city": "Eugene, Ore.",
+      "filename": "matthew-knight-arena.jpg",
+      "path": "docs/images/arenas/matthew-knight-arena.jpg"
     },
     {
       "arena_key": "mohegan-sun-arena",
@@ -43,7 +99,7 @@
     {
       "arena_key": "pinnacle-bank-arena",
       "display": "Pinnacle Bank Arena",
-      "opponent": "New Haven",
+      "opponent": "Minnesota",
       "city": "Lincoln, Neb.",
       "filename": "pinnacle-bank-arena.jpg",
       "path": "docs/images/arenas/pinnacle-bank-arena.jpg"
@@ -57,12 +113,36 @@
       "path": "docs/images/arenas/sanford-pentagon.jpg"
     },
     {
+      "arena_key": "state-farm-center",
+      "display": "State Farm Center",
+      "opponent": "Illinois",
+      "city": "Champaign, Ill.",
+      "filename": "state-farm-center.jpg",
+      "path": "docs/images/arenas/state-farm-center.jpg"
+    },
+    {
       "arena_key": "t-mobile-center",
       "display": "T-Mobile Center",
       "opponent": "Missouri",
       "city": "Kansas City, Mo.",
       "filename": "t-mobile-center.jpg",
       "path": "docs/images/arenas/t-mobile-center.jpg"
+    },
+    {
+      "arena_key": "welsh-ryan-arena",
+      "display": "Welsh Ryan Arena",
+      "opponent": "Northwestern",
+      "city": "Evanston, Ill.",
+      "filename": "welsh-ryan-arena.jpg",
+      "path": "docs/images/arenas/welsh-ryan-arena.jpg"
+    },
+    {
+      "arena_key": "xfinity-center",
+      "display": "XFINITY Center",
+      "opponent": "Maryland",
+      "city": "College Park, Md.",
+      "filename": "xfinity-center.jpg",
+      "path": "docs/images/arenas/xfinity-center.jpg"
     }
   ]
 }

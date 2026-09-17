@@ -38,7 +38,7 @@
       "city": "Provo, Utah",
       "arena_key": "marriott-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
-      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/5ph5EWM0DQDKrVxJDZtwvzUAnFW1EQAfTkA866CI.svg",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/LAbWpEwGO8actfr7tG0A1hiBleJLZNLbWPW8vmIS.svg",
       "tv_logo": null,
       "tv": [],
       "status": "scheduled",
@@ -273,6 +273,32 @@
       ]
     },
     {
+      "date": "2026-12-02",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Ohio St.",
+      "opp_rank": null,
+      "title": "Ohio St.",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ZypwLlH96dLBs8GTvlqdMhyWpV4IgVGyCUAQpTrb.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
       "date": "2026-12-05",
       "time_local": "TBA",
       "home_away": "A",
@@ -295,6 +321,32 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Penn State",
+      "opp_rank": null,
+      "title": "Penn State",
+      "arena": "Bryce Jordan Center",
+      "city": "State College, Pa.",
+      "arena_key": "bryce-jordan-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSnEQOMzqgY8gAPCfxR90DNlJ0vOuXDQfhvTLM4h.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
         }
       ]
     },
@@ -403,6 +455,474 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Michigan St.",
+      "opp_rank": null,
+      "title": "Michigan St.",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-05",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Michigan",
+      "opp_rank": null,
+      "title": "Michigan",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/VfZOPfPJ8Ps9IldV9Wlg3gdY47UFgUjU17DI6zZE.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-10",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Oregon",
+      "opp_rank": null,
+      "title": "Oregon",
+      "arena": "Matthew Knight Arena",
+      "city": "Eugene, Ore.",
+      "arena_key": "matthew-knight-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Ob70zmtdWJk9Fs4HQsNtn4eRa5s5H2ZzHFRmxQS0.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-13",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Washington",
+      "opp_rank": null,
+      "title": "Washington",
+      "arena": "Alaska Airlines Arena",
+      "city": "Seattle, Wash.",
+      "arena_key": "alaska-airlines-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/aduluAGeTcF8UtJgQe2OQ8NPQ4RdWHL5CNunZmOf.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Iowa",
+      "opp_rank": null,
+      "title": "Iowa",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-19",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Illinois",
+      "opp_rank": null,
+      "title": "Illinois",
+      "arena": "State Farm Center",
+      "city": "Champaign, Ill.",
+      "arena_key": "state-farm-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Zep4SdUeuEV4udWIkJM7nyVEYXvtzXpcT85gMfBm.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-22",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "UCLA",
+      "opp_rank": null,
+      "title": "UCLA",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-26",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Purdue",
+      "opp_rank": null,
+      "title": "Purdue",
+      "arena": "Mackey Arena",
+      "city": "West Lafayette, Ind.",
+      "arena_key": "mackey-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/xNszGRTqhoa3HqgCuw8xM0n8NiRYDXihzYzPIdG9.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Iowa",
+      "opp_rank": null,
+      "title": "Iowa",
+      "arena": "Carver-Hawkeye Arena",
+      "city": "Iowa City, Iowa",
+      "arena_key": "carver-hawkeye-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9YsBNIeewYRZVuMYp8PzCPprdai9tksp5CFtqtT.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Indiana",
+      "opp_rank": null,
+      "title": "Indiana",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/t8w660qGEZZcwH7ABD9w1iDy2lD33klnqvEaQpBD.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-09",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Maryland",
+      "opp_rank": null,
+      "title": "Maryland",
+      "arena": "XFINITY Center",
+      "city": "College Park, Md.",
+      "arena_key": "xfinity-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ckTPjX0bKvYj5KB1p9hAJSOCO7AGA5nbrXGR4JD7.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-12",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Penn State",
+      "opp_rank": null,
+      "title": "Penn State",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/eSnEQOMzqgY8gAPCfxR90DNlJ0vOuXDQfhvTLM4h.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-16",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Rutgers",
+      "opp_rank": null,
+      "title": "Rutgers",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/zoaT74wAKvqfSxj4O4pH1n54sO1ObHTHYuqMNWmp.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-20",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Michigan St.",
+      "opp_rank": null,
+      "title": "Michigan St.",
+      "arena": "Brelin Center",
+      "city": "East Lansing, Mich.",
+      "arena_key": "brelin-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/V9lNQEH7qMyFnbplkvJZlFgTfYn4p67blAA6S4D4.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-23",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "USC",
+      "opp_rank": null,
+      "title": "USC",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/UahJy09xytmTXBAdfHeKv65Npu0KNztpHnkwIgsh.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Northwestern",
+      "opp_rank": null,
+      "title": "Northwestern",
+      "arena": "Welsh Ryan Arena",
+      "city": "Evanston, Ill.",
+      "arena_key": "welsh-ryan-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/1UQISSq3eRDnRJIAjeXGWar8aTYdy9GWB56k0WDg.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-03",
+      "time_local": "TBA",
+      "home_away": "A",
+      "nu_rank": null,
+      "opponent": "Wisconsin",
+      "opp_rank": null,
+      "title": "Wisconsin",
+      "arena": "Kohl Center",
+      "city": "Madison, Wis.",
+      "arena_key": "kohl-center",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/mJ8a1eU4tgjodrqKozGuiAx00rgRa6pcFoaFvbAB.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-07",
+      "time_local": "TBA",
+      "home_away": "H",
+      "nu_rank": null,
+      "opponent": "Minnesota",
+      "opp_rank": null,
+      "title": "Minnesota",
+      "arena": "Pinnacle Bank Arena",
+      "city": "Lincoln, Neb.",
+      "arena_key": "pinnacle-bank-arena",
+      "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
+      "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/C3Z8GJ3Nxf8uQOj0yM8sNk4HpOGW5qVREe71F2Ao.svg",
+      "tv_logo": null,
+      "tv": [],
+      "status": "scheduled",
+      "result": null,
+      "result_css": null,
+      "notes": null,
+      "links": [
+        {
+          "title": "Listen",
+          "href": "http://huskers.com/listen"
         }
       ]
     }
