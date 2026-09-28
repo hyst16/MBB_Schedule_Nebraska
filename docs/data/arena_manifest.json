@@ -17,12 +17,12 @@
       "path": "docs/images/arenas/bigiron-events-center.jpg"
     },
     {
-      "arena_key": "brelin-center",
-      "display": "Brelin Center",
+      "arena_key": "breslin-center",
+      "display": "Breslin Center",
       "opponent": "Michigan St.",
       "city": "East Lansing, Mich.",
-      "filename": "brelin-center.jpg",
-      "path": "docs/images/arenas/brelin-center.jpg"
+      "filename": "breslin-center.jpg",
+      "path": "docs/images/arenas/breslin-center.jpg"
     },
     {
       "arena_key": "bryce-jordan-center",
