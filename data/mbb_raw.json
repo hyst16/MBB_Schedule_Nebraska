@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-10-01T14:26:43.962708+00:00",
+  "scraped_at": "2026-10-01T18:51:27.968549+00:00",
   "items": [
     {
       "date": null,
@@ -37,13 +37,21 @@
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": null,
-      "tv_network_logo_url": null,
+      "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
       "status": "scheduled",
       "result": null,
       "links": [
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Tickets",
+          "href": "https://huskers.evenue.net/event/B26/01"
         }
       ],
       "divider_text": "vs."
@@ -83,17 +91,25 @@
       "arena": "BigIron Events Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/60ku8yZkvTRj1mNviYHCWQWxryC5XhuOih8dGMiB.svg",
-      "tv_network_logo_url": null,
+      "tv_network_logo_url": "https://huskers.com/imgproxy/EXnXUfWhvgTW9NItt3_3T5gz3WqVqBAUaYB8AphNJek/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9qZFNCZjJaRlJIWFJubjduRkNFc1dWQnV4VTM5TGhZRkVQZFYzVElXLnBuZw.png",
       "status": "scheduled",
       "result": null,
       "links": [
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
         },
         {
-          "title": "Tickets (on sale, 9/18, 10 a.m.)",
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "Tickets",
           "href": "https://www.ticketmaster.com/event/0600652BBB38C99F"
+        },
+        {
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
         }
       ],
       "divider_text": "vs."
