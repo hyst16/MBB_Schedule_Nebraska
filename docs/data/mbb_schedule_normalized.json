@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-11-22",
-      "time_local": "TBA",
+      "time_local": "12:00 PM CST",
       "home_away": "N",
       "nu_rank": null,
       "opponent": "Butler",
@@ -245,7 +245,7 @@
       "arena_key": "credit-union-1-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/IIGcnoOYB1xesx6JhVbNgrAQlJmKpSZXjXMzxgEV.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -259,6 +259,10 @@
         {
           "title": "Tickets",
           "href": "https://www.ticketmaster.com/butler-vs-nebraska-mens-basketball-chicago-illinois-11-22-2026/event/040064F6D248F7ED"
+        },
+        {
+          "title": "",
+          "href": "https://foxsports.com/live"
         }
       ]
     },
@@ -316,7 +320,7 @@
     },
     {
       "date": "2026-12-05",
-      "time_local": "TBA",
+      "time_local": "12:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Creighton",
@@ -327,7 +331,7 @@
       "arena_key": "chi-health-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/1cg9w07JU2X8N7NnQpHFEeSuiLl0ltSzj5E5SG5Q.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/10PKuQIS5DyM_YUQl7JW9QIZqMDcfxAM2eix5ZNhqbM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wMy8yMC9vY2V3TUVSc3VNSEF0dmhqY3NkMUp2NmpnQ2FkYmVUa2g4dkd2Mk5aLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -337,6 +341,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.hbomax.com/"
         }
       ]
     },
