@@ -25,8 +25,8 @@
           "href": "https://huskers.com/listen"
         },
         {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
+          "title": "Free Video Stream",
+          "href": "https://www.youtube.com/live/JXTPmrbKY8k"
         },
         {
           "title": "Tickets",
@@ -81,26 +81,26 @@
       "notes": null,
       "links": [
         {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
-        },
-        {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
+          "title": "Listen",
+          "href": "https://huskers.com/listen"
         },
         {
           "title": "Tickets",
           "href": "https://www.ticketmaster.com/event/0600652BBB38C99F"
         },
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
+        },
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/en-int/page/home"
         }
       ]
     },
     {
       "date": "2026-11-02",
-      "time_local": "TBA",
+      "time_local": "6:30 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Le Moyne",
@@ -111,7 +111,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://huskers.com/imgproxy/8yZA05jePHclzqco3XYl7A3iDrFUTobrwZIVV443qE8/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOS9JeVY2a1dFOG5hWEx2dkVsODdLeENwcWM5eEVJTFBZU0RCZnVwNnhjLmpwZw.jpg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -121,6 +121,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.bigtenplus.com/"
         }
       ]
     },
@@ -137,7 +141,7 @@
       "arena_key": "mohegan-sun-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://huskers.com/imgproxy/YdXSM2g0GO0Z2vcryc4g4iltHuF0SjhkPU8xGSW3Jmg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wNS8xMy9JMG9SU1JsOUFWb3NuQnFTNDVIa0JLdnVTdXlwMHJudm9zWmZWYm1LLmpwZw.jpg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -149,14 +153,18 @@
           "href": "http://huskers.com/listen"
         },
         {
-          "title": "Purchase Tickets (on sale, 9/4, 9 a.m.)",
+          "title": "Purchase Tickets",
           "href": "https://www.ticketmaster.com/basketball-hall-of-fame-tipoff-uncasville-connecticut-11-07-2026/event/1D0064DE924A3E64"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-11-11",
-      "time_local": "TBA",
+      "time_local": "8:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Lindenwood",
@@ -167,7 +175,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Pfb6ZHzJTu20nPSw4san2P94M4xG5eZZEAR3SDPa.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -177,12 +185,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-11-15",
-      "time_local": "TBA",
+      "time_local": "12:00 PM CST",
       "home_away": "N",
       "nu_rank": null,
       "opponent": "Boise St.",
@@ -193,7 +205,7 @@
       "arena_key": "sanford-pentagon",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/Txw5fKfDrTWKIUoOfKeJPxdYWEr0EDdNU8D1vD3L.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -203,12 +215,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-11-18",
-      "time_local": "TBA",
+      "time_local": "7:30 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "South Dakota",
@@ -219,7 +235,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/l75QqzOEtycKO8eR7CAlmXG7j9CJ4LrJU4jerueO.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -229,6 +245,10 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
@@ -268,7 +288,7 @@
     },
     {
       "date": "2026-11-25",
-      "time_local": "TBA",
+      "time_local": "4:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Southern U.",
@@ -279,7 +299,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/sX7qyB46Mlx5qNnwpmtDl8myN6obHVO8D4UkwZvR.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -289,12 +309,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-12-02",
-      "time_local": "TBA",
+      "time_local": "7:30 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Ohio St.",
@@ -305,7 +329,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/fg3weSTLCHNuqYnnVVA9001FVzzMsOhslaCByc9r.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -315,6 +339,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "foxsports.com/live",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
@@ -350,7 +378,7 @@
     },
     {
       "date": "2026-12-08",
-      "time_local": "TBA",
+      "time_local": "7:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Penn State",
@@ -361,7 +389,7 @@
       "arena_key": "bryce-jordan-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/o2nj3h68raMSaNe8DjjPWaN37sfY711NYkbxcAfj.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -371,6 +399,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
@@ -406,7 +438,7 @@
     },
     {
       "date": "2026-12-17",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Mount St. Mary's",
@@ -417,7 +449,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://huskers.com/imgproxy/0YNvaFJcStvNYyHISicRsdBm_Sq-7OBmRfdX5TjQGgc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOC9ZVmgxQ2s1VXlCVUZFWE9wclFvbERMN0NsOTNPOFBUclVJaWF3ZU54LnBuZw.png",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -427,12 +459,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-12-20",
-      "time_local": "TBA",
+      "time_local": "3:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "FDU",
@@ -443,7 +479,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://huskers.com/imgproxy/2c_Cu7xkh9ETkl53Ugk4gOocPBIk4DIeSvyvm6SbOHE/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xNy9rcWlpbVNhQ3d5T0NGNTZBWWRMNDR5T2haU1pHNVNUSFY4VzZIcmJ5LnBuZw.png",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -453,12 +489,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2026-12-30",
-      "time_local": "TBA",
+      "time_local": "1:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "New Haven",
@@ -469,7 +509,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://huskers.com/imgproxy/tIV6SFELzs0aTZ53EJmV_5LUFyEumwbmX6I7iunldgY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOC95QWRuZzVzZFl2ZE5BY2tDQll1anhFck92RkJUWTNhck01SUFIQ1NoLnBuZw.png",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -479,12 +519,16 @@
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-01-02",
-      "time_local": "TBA",
+      "time_local": "2:45 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Michigan St.",
@@ -495,7 +539,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/WF2sTM7qKPfYGUx1dh9sIfYAhX2Cad0M1Z9qTlCG.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/0BFjgPsmU4eISMkXWWy__2QV5IbvvI980lhr3nIy4TM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9kMEZKOGpCSGxOejJ5a3hHM0ExVmZvSVlsWkY2VGdsUGtJdXRvWDM3LnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -505,12 +549,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.paramountplus.com/"
         }
       ]
     },
     {
       "date": "2027-01-05",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Michigan",
@@ -521,7 +569,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ztnsgQkJvjErOy6Cck31tMRiS5VnnEYRpoJOBrql.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/OpWRvy801OXrED9IADdI-glc_hTZR4twT5-1Z26AVVc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9BS29Yek85OE44anVibXl2bUNWdnVZRDlJYXBKSk13V3pQV2UxNVVvLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -531,12 +579,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/"
         }
       ]
     },
     {
       "date": "2027-01-10",
-      "time_local": "TBA",
+      "time_local": "5:30 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Oregon",
@@ -547,7 +599,7 @@
       "arena_key": "matthew-knight-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/U0dJM09JAXXMat7hoC2dW4NKUIAdYw3bI3xUBWDA.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -557,12 +609,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-01-13",
-      "time_local": "TBA",
+      "time_local": "10:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Washington",
@@ -573,7 +629,7 @@
       "arena_key": "alaska-airlines-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/ocEhFWgbDVeZ1GA4wuVCQrLQhD1QF0ORAcNKb78I.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -583,12 +639,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-01-16",
-      "time_local": "TBA",
+      "time_local": "7:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Iowa",
@@ -599,7 +659,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/jrHlgEIoohBgq0QITXNOFolc7wP7DwHmxWo0R6ab.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -609,12 +669,20 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-01-19",
-      "time_local": "TBA",
+      "time_local": "8:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Illinois",
@@ -625,7 +693,7 @@
       "arena_key": "state-farm-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/VQRRGWVVHCyN8rN1SKsMEhpmHA1thIRfowmhVXqn.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/OpWRvy801OXrED9IADdI-glc_hTZR4twT5-1Z26AVVc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9BS29Yek85OE44anVibXl2bUNWdnVZRDlJYXBKSk13V3pQV2UxNVVvLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -635,12 +703,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/"
         }
       ]
     },
     {
       "date": "2027-01-22",
-      "time_local": "TBA",
+      "time_local": "8:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "UCLA",
@@ -651,7 +723,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/HRd1Q70l0yQpZeYQ1h4eRyyBye4Cp06Nn1icMkjm.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -661,12 +733,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-01-26",
-      "time_local": "TBA",
+      "time_local": "5:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Purdue",
@@ -677,7 +753,7 @@
       "arena_key": "mackey-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/LEoEsvc3cSzmjX5NOkgGpHqsHX90bhaLx5eRH3oU.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/OpWRvy801OXrED9IADdI-glc_hTZR4twT5-1Z26AVVc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9BS29Yek85OE44anVibXl2bUNWdnVZRDlJYXBKSk13V3pQV2UxNVVvLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -687,12 +763,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/"
         }
       ]
     },
     {
       "date": "2027-01-30",
-      "time_local": "TBA",
+      "time_local": "4:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Iowa",
@@ -703,7 +783,7 @@
       "arena_key": "carver-hawkeye-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/jrHlgEIoohBgq0QITXNOFolc7wP7DwHmxWo0R6ab.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/OpWRvy801OXrED9IADdI-glc_hTZR4twT5-1Z26AVVc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9BS29Yek85OE44anVibXl2bUNWdnVZRDlJYXBKSk13V3pQV2UxNVVvLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -713,12 +793,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/"
         }
       ]
     },
     {
       "date": "2027-02-06",
-      "time_local": "TBA",
+      "time_local": "1:30 or 5 or 7 PM",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Indiana",
@@ -729,7 +813,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/9zwhGLl6hkKGhqy56DEc7rAyUowP1bTAIsIbxtCE.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -739,12 +823,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-02-09",
-      "time_local": "TBA",
+      "time_local": "5:30 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Maryland",
@@ -755,7 +843,7 @@
       "arena_key": "xfinity-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/WvrOjv9NoeMGxuG0jkJDeXqetaEPKbc1NhYRxi0x.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -765,12 +853,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-02-12",
-      "time_local": "TBA",
+      "time_local": "8:30 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Penn State",
@@ -781,7 +873,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/o2nj3h68raMSaNe8DjjPWaN37sfY711NYkbxcAfj.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -791,12 +883,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-02-16",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Rutgers",
@@ -807,7 +903,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/bJhaZwlJq9HWXzOX2XLb61CzszhNdIXlNOqheYDD.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -817,12 +913,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-02-20",
-      "time_local": "TBA",
+      "time_local": "7:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Michigan St.",
@@ -833,7 +933,7 @@
       "arena_key": "breslin-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/WF2sTM7qKPfYGUx1dh9sIfYAhX2Cad0M1Z9qTlCG.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/gM1A2rToEddNlu0RoRGpq7mgxF02xg2DOhpLQNTQbRA/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9SUTBlVHVRNHM0R1dSQVJ6ZVRibXFNS2tGZ01VS0ZvbHJSeVpMM21oLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -843,12 +943,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-02-23",
-      "time_local": "TBA",
+      "time_local": "8:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "USC",
@@ -859,7 +963,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/hRNJBvLnNz2JJWDyypb1is2khC0xZUMrYk1zs8XU.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/uF_LnR09pS-ZsANOQk63vj6EOLxk5zY0ohm-HbR28eY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9aZHB4bkJoazV3RUlEcU1xWGtkdkptbUFkZVhYQk1wckc4SnhUcjN2LnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -869,12 +973,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.peacocktv.com/"
         }
       ]
     },
     {
       "date": "2027-02-27",
-      "time_local": "TBA",
+      "time_local": "2:00 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Northwestern",
@@ -885,7 +993,7 @@
       "arena_key": "welsh-ryan-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/1UQISSq3eRDnRJIAjeXGWar8aTYdy9GWB56k0WDg.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MJAGFsOch9DMblmTTTYAUTt1FVyzCRScBebW--fM188/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8zMC9xT3h3UEE2Uzlpd2x6T25pZ01RZVl6MDh0WDJHMGRqQmhjOFd5VmhiLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -895,12 +1003,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-03-03",
-      "time_local": "TBA",
+      "time_local": "7:30 PM CST",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "Wisconsin",
@@ -911,7 +1023,7 @@
       "arena_key": "kohl-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/j8I3mTZGuF3lJyds3yozQSLfrxdUabgUhTX9odJ9.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -921,12 +1033,16 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://foxsports.com/live"
         }
       ]
     },
     {
       "date": "2027-03-07",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Minnesota",
@@ -937,7 +1053,7 @@
       "arena_key": "pinnacle-bank-arena",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/tGeSN6DdDWZ7vGMS4CjeWwzZFb9d4CGS11G1ioAW.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -947,6 +1063,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://foxsports.com/live"
         }
       ]
     }
