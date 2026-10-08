@@ -408,7 +408,7 @@
     },
     {
       "date": "2026-12-12",
-      "time_local": "TBA",
+      "time_local": "6:00 PM CST",
       "home_away": "N",
       "nu_rank": null,
       "opponent": "Missouri",
@@ -419,7 +419,7 @@
       "arena_key": "t-mobile-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/a6RjlPVV23IIhnGiIV2IcCVt7DKXQKhLVNuIg11H.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/ThrFr9H6DGDJnDNkHLRXYivQfEoPnQGCbKt4VaNIGT4/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvaHR0cHM6L3MzLnVzLWVhc3QtMi5hbWF6b25hd3MuY29tL3NpZGVhcm0ubmV4dGdlbi5zaXRlcy9odXNrZXJzLmNvbS9pbWFnZXMvMjAyMC8zLzIvRVNQTlUucG5nL0xJeVNpSW9MMElyZXNMMFJzVzd4dUZ5SGlDRXd1aTdCQ3FoWmRsQnEucG5n.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -433,6 +433,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://www.espn.com/watch/"
         }
       ]
     },
