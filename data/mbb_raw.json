@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-10-08T19:22:19.649520+00:00",
+  "scraped_at": "2026-10-09T14:21:03.323699+00:00",
   "items": [
     {
       "date": null,
@@ -52,6 +52,10 @@
         {
           "title": "Tickets",
           "href": "https://huskers.evenue.net/event/B26/01"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://nebraska.statbroadcast.com/"
         }
       ],
       "divider_text": "vs."
