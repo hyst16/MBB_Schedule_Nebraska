@@ -2,7 +2,7 @@
   "items": [
     {
       "date": "2026-10-09",
-      "time_local": "7:00 PM CDT",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Saint Louis (Exh.)",
@@ -15,9 +15,9 @@
       "opp_logo": null,
       "tv_logo": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 79-74",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
@@ -29,18 +29,18 @@
           "href": "https://www.youtube.com/live/JXTPmrbKY8k"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/01"
+          "title": "Boxscore",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/10/10/xEGJu4H1X9iwr06FP8aFxl0YjGRG3jjOkZ6kq2fw.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://nebraska.statbroadcast.com/"
+          "title": "Photos",
+          "href": "https://huskers.com/news/2026/10/09/mbb-vs-saint-louis-exh-2026-photos"
         }
       ]
     },
     {
       "date": "2026-10-16",
-      "time_local": "TBA",
+      "time_local": "8:00 PM CDT",
       "home_away": "A",
       "nu_rank": null,
       "opponent": "BYU (Exh.)",
@@ -51,7 +51,7 @@
       "arena_key": "marriott-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/LAbWpEwGO8actfr7tG0A1hiBleJLZNLbWPW8vmIS.svg",
-      "tv_logo": null,
+      "tv_logo": "https://huskers.com/imgproxy/C0vPCCvNMm3wchbaUzNpElVndOJfNE0SlTLfQCDfLX0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8yMi9Xa2xHcUpFeDRzazZzRjJVQjNnN2F6eWdQd3pPWjFEc09OSGhwVEFVLnBuZw.png",
       "tv": [],
       "status": "scheduled",
       "result": null,
@@ -61,6 +61,10 @@
         {
           "title": "Listen",
           "href": "http://huskers.com/listen"
+        },
+        {
+          "title": "",
+          "href": "https://secure.web.plus.espn.com/commerce/account"
         }
       ]
     },
