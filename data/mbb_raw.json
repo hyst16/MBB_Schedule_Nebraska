@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-10-13T15:01:16.510053+00:00",
+  "scraped_at": "2026-10-13T19:50:55.008265+00:00",
   "items": [
     {
       "date": null,
@@ -75,7 +75,7 @@
       "arena": "Marriott Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/LAbWpEwGO8actfr7tG0A1hiBleJLZNLbWPW8vmIS.svg",
-      "tv_network_logo_url": "https://huskers.com/imgproxy/C0vPCCvNMm3wchbaUzNpElVndOJfNE0SlTLfQCDfLX0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8yMi9Xa2xHcUpFeDRzazZzRjJVQjNnN2F6eWdQd3pPWjFEc09OSGhwVEFVLnBuZw.png",
+      "tv_network_logo_url": "https://huskers.com/imgproxy/rFmm8imX5VlMSFiSZF0RQEgb8283oY_C6-qKbTnRzIw/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9xT1lCdW9CRTFITkJLMnJqejBuSUFjSjNlWlpqRmd1eGM0Wjl2OVdELmpwZw.jpg",
       "status": "scheduled",
       "result": null,
       "links": [
@@ -85,7 +85,7 @@
         },
         {
           "title": "",
-          "href": "https://secure.web.plus.espn.com/commerce/account"
+          "href": "https://www.espn.com/watch/player/_/id/08cde446-94b8-4aca-b720-4259927524fa"
         }
       ],
       "divider_text": "at"
