@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-10-16T17:22:30.241320+00:00",
+  "scraped_at": "2026-10-17T11:35:01.972677+00:00",
   "items": [
     {
       "date": null,
@@ -66,7 +66,7 @@
     {
       "date": null,
       "date_text": "OCT 16",
-      "time_local": "8:00 PM CDT",
+      "time_local": null,
       "venue_type": "A",
       "nu_rank": null,
       "opp_rank": null,
@@ -76,8 +76,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/LAbWpEwGO8actfr7tG0A1hiBleJLZNLbWPW8vmIS.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/rFmm8imX5VlMSFiSZF0RQEgb8283oY_C6-qKbTnRzIw/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9xT1lCdW9CRTFITkJLMnJqejBuSUFjSjNlWlpqRmd1eGM0Wjl2OVdELmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "L",
+        "sets": "61-72"
+      },
       "links": [
         {
           "title": "Listen",
@@ -86,6 +89,14 @@
         {
           "title": "",
           "href": "https://www.espn.com/watch/player/_/id/08cde446-94b8-4aca-b720-4259927524fa"
+        },
+        {
+          "title": "Boxscore",
+          "href": "https://huskers.com/documents/9b979f91-6cb3-4a02-a608-46b8bbbfa419.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25012"
         }
       ],
       "divider_text": "at"

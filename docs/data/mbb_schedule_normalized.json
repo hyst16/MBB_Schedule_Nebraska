@@ -40,7 +40,7 @@
     },
     {
       "date": "2026-10-16",
-      "time_local": "8:00 PM CDT",
+      "time_local": null,
       "home_away": "A",
       "nu_rank": null,
       "opponent": "BYU (Exh.)",
@@ -53,9 +53,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/LAbWpEwGO8actfr7tG0A1hiBleJLZNLbWPW8vmIS.svg",
       "tv_logo": "https://huskers.com/imgproxy/rFmm8imX5VlMSFiSZF0RQEgb8283oY_C6-qKbTnRzIw/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9xT1lCdW9CRTFITkJLMnJqejBuSUFjSjNlWlpqRmd1eGM0Wjl2OVdELmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "L 61-72",
+      "result_css": "L",
       "notes": null,
       "links": [
         {
@@ -65,6 +65,14 @@
         {
           "title": "",
           "href": "https://www.espn.com/watch/player/_/id/08cde446-94b8-4aca-b720-4259927524fa"
+        },
+        {
+          "title": "Boxscore",
+          "href": "https://huskers.com/documents/9b979f91-6cb3-4a02-a608-46b8bbbfa419.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25012"
         }
       ]
     },
