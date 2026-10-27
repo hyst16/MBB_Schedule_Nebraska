@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-10-26T19:24:33.073246+00:00",
+  "scraped_at": "2026-10-27T13:11:02.690917+00:00",
   "items": [
     {
       "date": null,
@@ -104,7 +104,7 @@
     {
       "date": null,
       "date_text": "OCT 26",
-      "time_local": "6:30 PM CDT",
+      "time_local": null,
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -113,25 +113,20 @@
       "arena": "BigIron Events Center",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/60ku8yZkvTRj1mNviYHCWQWxryC5XhuOih8dGMiB.svg",
-      "tv_network_logo_url": "https://huskers.com/imgproxy/EXnXUfWhvgTW9NItt3_3T5gz3WqVqBAUaYB8AphNJek/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9qZFNCZjJaRlJIWFJubjduRkNFc1dWQnV4VTM5TGhZRkVQZFYzVElXLnBuZw.png",
-      "status": "scheduled",
-      "result": null,
+      "tv_network_logo_url": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "88-84"
+      },
       "links": [
         {
           "title": "Listen",
           "href": "https://huskers.com/listen"
         },
         {
-          "title": "Tickets",
-          "href": "https://www.ticketmaster.com/event/0600652BBB38C99F"
-        },
-        {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
-        },
-        {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/10/27/99dLrvigzJKMLxwFnlUH9jVgKlZfOjvG0j4I5bmj.pdf"
         }
       ],
       "divider_text": "vs."

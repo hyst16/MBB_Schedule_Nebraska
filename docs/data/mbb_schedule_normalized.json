@@ -78,7 +78,7 @@
     },
     {
       "date": "2026-10-26",
-      "time_local": "6:30 PM CDT",
+      "time_local": null,
       "home_away": "N",
       "nu_rank": null,
       "opponent": "Kansas St. (Exh.)",
@@ -89,11 +89,11 @@
       "arena_key": "bigiron-events-center",
       "nu_logo": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/60ku8yZkvTRj1mNviYHCWQWxryC5XhuOih8dGMiB.svg",
-      "tv_logo": "https://huskers.com/imgproxy/EXnXUfWhvgTW9NItt3_3T5gz3WqVqBAUaYB8AphNJek/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9qZFNCZjJaRlJIWFJubjduRkNFc1dWQnV4VTM5TGhZRkVQZFYzVElXLnBuZw.png",
+      "tv_logo": null,
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 88-84",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -101,16 +101,8 @@
           "href": "https://huskers.com/listen"
         },
         {
-          "title": "Tickets",
-          "href": "https://www.ticketmaster.com/event/0600652BBB38C99F"
-        },
-        {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
-        },
-        {
-          "title": "",
-          "href": "https://www.bigtenplus.com/en-int/page/home"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/10/27/99dLrvigzJKMLxwFnlUH9jVgKlZfOjvG0j4I5bmj.pdf"
         }
       ]
     },
