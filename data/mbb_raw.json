@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-02T22:17:31.171402+00:00",
+  "scraped_at": "2026-11-03T15:03:57.035296+00:00",
   "items": [
     {
       "date": null,
@@ -134,7 +134,7 @@
     {
       "date": null,
       "date_text": "NOV 2",
-      "time_local": "6:30 PM CST",
+      "time_local": null,
       "venue_type": "H",
       "nu_rank": null,
       "opp_rank": null,
@@ -144,20 +144,31 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://huskers.com/imgproxy/8yZA05jePHclzqco3XYl7A3iDrFUTobrwZIVV443qE8/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOS9JeVY2a1dFOG5hWEx2dkVsODdLeENwcWM5eEVJTFBZU0RCZnVwNnhjLmpwZw.jpg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "106-64"
+      },
       "links": [
-        {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
         {
           "title": "",
           "href": "https://www.bigtenplus.com/"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/02"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/11/03/NnRe3hPuqnsAtgKRUuoyXccwWUlUy5poDUjq8mYm.pdf"
+        },
+        {
+          "title": "Photo Gallery",
+          "href": "https://huskers.com/news/2026/11/02/mbb-vs-le-moyne-2026-photos"
+        },
+        {
+          "title": "Postgame Notes/Quotes",
+          "href": "https://huskers.com/postgame-notes-and-quotes-vs-le-moyne"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25084"
         }
       ],
       "divider_text": "vs."

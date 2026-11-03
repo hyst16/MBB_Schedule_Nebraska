@@ -108,7 +108,7 @@
     },
     {
       "date": "2026-11-02",
-      "time_local": "6:30 PM CST",
+      "time_local": null,
       "home_away": "H",
       "nu_rank": null,
       "opponent": "Le Moyne",
@@ -121,22 +121,30 @@
       "opp_logo": "https://huskers.com/imgproxy/8yZA05jePHclzqco3XYl7A3iDrFUTobrwZIVV443qE8/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wOC8xOS9JeVY2a1dFOG5hWEx2dkVsODdLeENwcWM5eEVJTFBZU0RCZnVwNnhjLmpwZw.jpg",
       "tv_logo": "https://huskers.com/imgproxy/dqDf7KySHz-PygmhYm6JjRvzXJR0nA9-L-tFtnB5yPg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8wMS9YOGFieFJhdUprY2RyeXpLVjZFTUJJWmpRNE15djZ3S3NvMjlxRzlPLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 106-64",
+      "result_css": "W",
       "notes": null,
       "links": [
-        {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
         {
           "title": "",
           "href": "https://www.bigtenplus.com/"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/02"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/11/03/NnRe3hPuqnsAtgKRUuoyXccwWUlUy5poDUjq8mYm.pdf"
+        },
+        {
+          "title": "Photo Gallery",
+          "href": "https://huskers.com/news/2026/11/02/mbb-vs-le-moyne-2026-photos"
+        },
+        {
+          "title": "Postgame Notes/Quotes",
+          "href": "https://huskers.com/postgame-notes-and-quotes-vs-le-moyne"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25084"
         }
       ]
     },
