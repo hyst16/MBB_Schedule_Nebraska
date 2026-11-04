@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-03T20:03:51.502507+00:00",
+  "scraped_at": "2026-11-04T15:22:55.520403+00:00",
   "items": [
     {
       "date": null,
@@ -367,7 +367,7 @@
       "arena": "Pinnacle Bank Arena",
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/fg3weSTLCHNuqYnnVVA9001FVzzMsOhslaCByc9r.svg",
-      "tv_network_logo_url": null,
+      "tv_network_logo_url": "https://huskers.com/imgproxy/4sdAYop298a3pJN2yqAdR-2JLYgEEQcGQeo_VtjQHq0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNS8xMC8yOC9FdFZINkx1VTZMWko0M3VEczI5QWdwYjZQY1NXWkZSM2NXUFAyNDJiLnBuZw.png",
       "status": "scheduled",
       "result": null,
       "links": [
@@ -376,7 +376,7 @@
           "href": "http://huskers.com/listen"
         },
         {
-          "title": "foxsports.com/live",
+          "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
