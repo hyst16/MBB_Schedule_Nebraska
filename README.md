@@ -46,37 +46,24 @@ This mirrors your football project, tailored for men's basketball (more matches,
 
 ## Files you’ll likely touch
 - `data/arena_overrides.json` – force a specific arena name → background slug (optional helper).
-- `docs/assets/styles.css` – tune column width, spacing, pills (TV chip), rank dots, and fonts.
-- `docs/assets/app.js` – rendering order, column split, and URL parameter handling.
+- `docs/assets/styles.css` – sizes are in 1080p pixels on the stage; tune spacing, pills (TV chip), rank dots, and fonts.
+- `docs/assets/app.js` – stage scaling, rendering order, column split, and URL parameter handling.
 
-## URL parameters (display controls)
-Append these to the page URL; combine as needed:
+## TV layout
+The whole page is drawn on a fixed **1920×1080 stage** that `app.js` scales to fit any screen
+(720p, 1080p, 4K TV, laptop). Non-16:9 screens get black bars instead of cropped content, so the
+plain URL is the TV preset — no sizing parameters needed:
+`https://hyst16.github.io/MBB_Schedule_Nebraska/`
 
-**Views & rotation**
-- `view=next` — lock to hero “Next Game” view  
-- `view=all` — lock to compact schedule view  
-- `rot=15` — auto-rotate every N seconds (if `view` is not locked)
+- **Next game** — a face-off card: Nebraska and opponent logos (with rank pills) over their names,
+  season record on top (exhibitions excluded), date · time, city, and the TV network.
+- **Schedule** — two columns that fill the screen, one line per game.
 
-**Compactness (vertical density)**
-- `dense=1` — tight rows (~25–30% shorter)  
-- `ultra=1` — even tighter than dense (another ~15–20% vertical savings)  
-  > If both appear, **ultra** wins.
-
-**Sizing & layout fit**
-- `fit=16x9` — locks the schedule view to a 16:9 stage, centered and scaled to fit
-- `safe=24` — optional safe padding in pixels around the 16:9 stage (defaults to `24`)
-- `scale=0.95` — scales the **entire schedule view** (fine-tuning for TVs)
-- `colw=700` — per-column width in pixels (wider columns show longer names)
-- `gap=5` — gap between the two columns (pixels). **Default is `5`.**
-
-**Debug**
-- `debug=1` — tiny HUD (bottom-right) with active settings
-
-**Best preset for your TV**
-- `?ultra=1&scale=0.90&gap=2`  
-  Full: `https://hyst16.github.io/MBB_Schedule_Nebraska/?ultra=1&scale=0.90&gap=2`
-
-> Tip: If opponent names clip, increase `colw` a bit (e.g., `colw=720`) and/or slightly reduce `scale` (e.g., `0.94`). Lowering `gap` (e.g., `gap=2`) also helps.
+## URL parameters (optional)
+- `view=next` — lock to the “Next game” face-off view
+- `view=all` — lock to the schedule view
+- `rot=15` — seconds between views when not locked (default 15)
+- `debug=1` — tiny HUD (bottom-right) with diagnostics
 
 ## Arena images
 Add JPEGs to `images/arenas/` (or `docs/images/arenas/` if serving from `/docs`) using the `arena_key` from `data/arena_manifest.json`. Example: images/arenas/chi-health-center.jpg
