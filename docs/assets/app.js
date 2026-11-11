@@ -7,16 +7,50 @@
      to fit the screen, so TVs need no sizing parameters
    ========================================================= */
 
-/* ---------------- Fit the 1920x1080 stage to the screen ---------------- */
+/* ---------------- Fit the 1920x1080 stage to the screen ----------------
+   TV browsers don't agree on how big the screen is: some report the panel's
+   pixels in window.innerWidth/innerHeight (e.g. 1920x1080) while laying the
+   page out in a smaller CSS viewport (e.g. 1280x720), which would leave the
+   stage at full size and crop its edges. So we take the SMALLEST size any of
+   the usual measures reports; at worst that adds thin black bars.
+   ?tvscale=0.67 forces a fixed scale if a TV still gets it wrong.            */
 const STAGE_W = 1920, STAGE_H = 1080;
+const forcedScale = parseFloat(new URLSearchParams(location.search).get("tvscale"));
+
+function viewportSize() {
+  const de = document.documentElement;
+  const vv = window.visualViewport;
+  const pick = (vals) => {
+    const ok = vals.filter(v => typeof v === "number" && v > 0);
+    return ok.length ? Math.min.apply(null, ok) : 0;
+  };
+  return {
+    w: pick([window.innerWidth, de && de.clientWidth, vv && vv.width]),
+    h: pick([window.innerHeight, de && de.clientHeight, vv && vv.height]),
+  };
+}
+
+let stageScale = 1;
 function fitStage() {
   const stage = document.getElementById("stage");
   if (!stage) return;
-  const scale = Math.min(window.innerWidth / STAGE_W, window.innerHeight / STAGE_H);
-  stage.style.transform = `translate(-50%, -50%) scale(${scale})`;
+  if (!isNaN(forcedScale) && forcedScale > 0) {
+    stageScale = forcedScale;
+  } else {
+    const vp = viewportSize();
+    if (!vp.w || !vp.h) return;           // not laid out yet; try again later
+    stageScale = Math.min(vp.w / STAGE_W, vp.h / STAGE_H);
+  }
+  stage.style.transform = `translate(-50%, -50%) scale(${stageScale})`;
 }
 fitStage();
 window.addEventListener("resize", fitStage);
+window.addEventListener("orientationchange", fitStage);
+window.addEventListener("load", fitStage);
+if (window.visualViewport) window.visualViewport.addEventListener("resize", fitStage);
+// Some players settle their viewport late without firing resize
+[500, 2000, 5000].forEach(ms => setTimeout(fitStage, ms));
+setInterval(fitStage, 60000);
 
 (async function () {
   // Small DOM helper (like jQuery's $)
@@ -40,6 +74,8 @@ window.addEventListener("resize", fitStage);
      - view=next|all : lock to a specific view
      - rot=15        : seconds between view rotations
      - debug=1       : show a tiny HUD for diagnostics
+     - tvscale=0.67  : force the stage scale (read at the top of
+                       this file; only if a TV mis-reports its size)
      --------------------------------------------------------- */
   const params = new URLSearchParams(location.search);
 
@@ -360,11 +396,20 @@ window.addEventListener("resize", fitStage);
 
   if (debug) {
     dbg.classList.remove("hidden");
-    dbg.textContent = [
-      `games: ${sched.length}`,
-      `next: ${nextGame ? (nextGame.opponent || "") : "n/a"}`,
-      `screen: ${window.innerWidth}x${window.innerHeight}`,
-      `arena img: ${nextGame && arenas[nextGame.arena_key] ? nextGame.arena_key : "n/a"}`
-    ].join(" • ");
+    const de = document.documentElement;
+    const vv = window.visualViewport;
+    const renderHud = () => {
+      dbg.textContent = [
+        `games: ${sched.length}`,
+        `next: ${nextGame ? (nextGame.opponent || "") : "n/a"}`,
+        `inner: ${window.innerWidth}x${window.innerHeight}`,
+        `client: ${de.clientWidth}x${de.clientHeight}`,
+        `visual: ${vv ? Math.round(vv.width) + "x" + Math.round(vv.height) : "n/a"}`,
+        `dpr: ${window.devicePixelRatio}`,
+        `scale: ${stageScale.toFixed(3)}${!isNaN(forcedScale) && forcedScale > 0 ? " (forced)" : ""}`
+      ].join(" • ");
+    };
+    renderHud();
+    setInterval(renderHud, 2000);
   }
 })();
