@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-06T19:56:29.917807+00:00",
+  "scraped_at": "2026-11-11T18:43:29.323848+00:00",
   "items": [
     {
       "date": null,
@@ -20,7 +20,7 @@
       "links": [
         {
           "title": "Preview",
-          "href": "https://huskers.com/news/2026/09/2/opening-night-presented-by-scheels-set-for-oct-2"
+          "href": "https://huskers.com/news/2026/09/02/opening-night-presented-by-scheels-set-for-oct-2"
         }
       ],
       "divider_text": "vs."
@@ -45,10 +45,6 @@
       },
       "links": [
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
           "title": "Free Video Stream",
           "href": "https://www.youtube.com/live/JXTPmrbKY8k"
         },
@@ -59,6 +55,10 @@
         {
           "title": "Photos",
           "href": "https://huskers.com/news/2026/10/09/mbb-vs-saint-louis-exh-2026-photos"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/10/09/lanier-shines-in-exhibition-opener"
         }
       ],
       "divider_text": "vs."
@@ -83,10 +83,6 @@
       },
       "links": [
         {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        },
-        {
           "title": "",
           "href": "https://www.espn.com/watch/player/_/id/08cde446-94b8-4aca-b720-4259927524fa"
         },
@@ -97,6 +93,10 @@
         {
           "title": "Box Score",
           "href": "https://huskers.com/boxscore/25012"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/10/16/jacobsen-lanier-pace-huskers-at-byu"
         }
       ],
       "divider_text": "at"
@@ -121,12 +121,12 @@
       },
       "links": [
         {
-          "title": "Listen",
-          "href": "https://huskers.com/listen"
-        },
-        {
           "title": "Box Score (PDF)",
           "href": "https://storage.googleapis.com/huskers-com-prod/2026/10/27/99dLrvigzJKMLxwFnlUH9jVgKlZfOjvG0j4I5bmj.pdf"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/10/26/frager-sandfort-shine-in-88-84-exhibition-victory"
         }
       ],
       "divider_text": "vs."
@@ -169,6 +169,10 @@
         {
           "title": "Box Score",
           "href": "https://huskers.com/boxscore/25084"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/11/02/huskers-race-past-le-moyne-106-64"
         }
       ],
       "divider_text": "vs."
@@ -176,7 +180,7 @@
     {
       "date": null,
       "date_text": "NOV 7",
-      "time_local": "6:00 PM CST",
+      "time_local": null,
       "venue_type": "N",
       "nu_rank": null,
       "opp_rank": null,
@@ -186,20 +190,27 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://huskers.com/imgproxy/YdXSM2g0GO0Z2vcryc4g4iltHuF0SjhkPU8xGSW3Jmg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyNi8wNS8xMy9JMG9SU1JsOUFWb3NuQnFTNDVIa0JLdnVTdXlwMHJudm9zWmZWYm1LLmpwZw.jpg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "67-58"
+      },
       "links": [
-        {
-          "title": "Listen",
-          "href": "http://huskers.com/listen"
-        },
-        {
-          "title": "Purchase Tickets",
-          "href": "https://www.ticketmaster.com/basketball-hall-of-fame-tipoff-uncasville-connecticut-11-07-2026/event/1D0064DE924A3E64"
-        },
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Box Score (PDF)",
+          "href": "https://huskers.com/documents/69d2b9d9-e47b-420d-8d93-3c556c4c3552.pdf"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25011"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/11/07/sandfort-defense-lead-huskers-past-providence"
         }
       ],
       "divider_text": "vs."
@@ -221,6 +232,10 @@
       "result": null,
       "links": [
         {
+          "title": "Tickets",
+          "href": "https://huskers.evenue.net/event/B26/03"
+        },
+        {
           "title": "Listen",
           "href": "https://huskers.com/listen"
         },
@@ -229,8 +244,8 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/03"
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
@@ -289,6 +304,10 @@
         {
           "title": "Tickets",
           "href": "https://huskers.evenue.net/event/B26/04"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
@@ -351,6 +370,10 @@
         {
           "title": "Tickets",
           "href": "https://huskers.evenue.net/event/B26/05"
+        },
+        {
+          "title": "Live Stats",
+          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
         }
       ],
       "divider_text": "vs."
