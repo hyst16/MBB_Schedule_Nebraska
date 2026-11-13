@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-12T20:46:25.974063+00:00",
+  "scraped_at": "2026-11-13T15:21:06.756877+00:00",
   "items": [
     {
       "date": null,
@@ -284,6 +284,10 @@
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
+        },
+        {
+          "title": "Live Stats",
+          "href": "http://pentagon.sidearmsports.com/sidearmstats/mbball/summary"
         }
       ],
       "divider_text": "vs."
