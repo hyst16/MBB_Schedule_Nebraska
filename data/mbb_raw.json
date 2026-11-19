@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-18T21:30:51.079512+00:00",
+  "scraped_at": "2026-11-19T16:33:18.519566+00:00",
   "items": [
     {
       "date": null,
@@ -310,9 +310,9 @@
     {
       "date": null,
       "date_text": "NOV 18",
-      "time_local": "7:30 PM CST",
+      "time_local": null,
       "venue_type": "H",
-      "nu_rank": null,
+      "nu_rank": 24,
       "opp_rank": null,
       "opponent_name": "South Dakota",
       "city": "Lincoln, Neb.",
@@ -320,8 +320,11 @@
       "nebraska_logo_url": "https://huskers.com/imgproxy/ZiJjtEqnKPA1myTuNSKlu9ZwOxzMNJsiQimqg6svKs0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wNi8yNy9xVkd3OVJidUZIQmxSTDU2VFBvZHBTMWhWNU5sVGlIVGt2Tk44RURlLnBuZw.png",
       "opponent_logo_url": "https://storage.googleapis.com/huskers-com-prod/school_logos/l75QqzOEtycKO8eR7CAlmXG7j9CJ4LrJU4jerueO.svg",
       "tv_network_logo_url": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
-      "status": "scheduled",
-      "result": null,
+      "status": "final",
+      "result": {
+        "outcome": "W",
+        "sets": "73-47"
+      },
       "links": [
         {
           "title": "Listen",
@@ -332,12 +335,24 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/04"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/11/19/sknHnANJa0JRUsEjyQdXGgHLUyyug84mDS9FF6Re.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "title": "Photo Gallery",
+          "href": "https://huskers.com/news/2026/11/18/mbb-vs-south-dakota-2026-photos"
+        },
+        {
+          "title": "Postgame Notes & Quotes",
+          "href": "https://huskers.com/postgame-notes-and-quotes-vs-south-dakota-111826"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25323"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/11/18/huskers-slow-down-coyotes-73-47"
         }
       ],
       "divider_text": "vs."

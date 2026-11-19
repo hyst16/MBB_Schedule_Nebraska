@@ -284,9 +284,9 @@
     },
     {
       "date": "2026-11-18",
-      "time_local": "7:30 PM CST",
+      "time_local": null,
       "home_away": "H",
-      "nu_rank": null,
+      "nu_rank": 24,
       "opponent": "South Dakota",
       "opp_rank": null,
       "title": "South Dakota",
@@ -297,9 +297,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/l75QqzOEtycKO8eR7CAlmXG7j9CJ4LrJU4jerueO.svg",
       "tv_logo": "https://huskers.com/imgproxy/MDzkCaaDsbR-fAZyprDYtyUOfLPaDjTNc7LofkEBGn0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8wMy9JS3JPSFBwbHhPWU5PUHVmdVBvQ1lDTzNnZlp2WFF1YXpFV05qeFhYLmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 73-47",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -311,12 +311,24 @@
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
         },
         {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/04"
+          "title": "Box Score (PDF)",
+          "href": "https://storage.googleapis.com/huskers-com-prod/2026/11/19/sknHnANJa0JRUsEjyQdXGgHLUyyug84mDS9FF6Re.pdf"
         },
         {
-          "title": "Live Stats",
-          "href": "https://www.statbroadcast.com/events/statmonitr.php?gid=neb"
+          "title": "Photo Gallery",
+          "href": "https://huskers.com/news/2026/11/18/mbb-vs-south-dakota-2026-photos"
+        },
+        {
+          "title": "Postgame Notes & Quotes",
+          "href": "https://huskers.com/postgame-notes-and-quotes-vs-south-dakota-111826"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25323"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/11/18/huskers-slow-down-coyotes-73-47"
         }
       ]
     },
