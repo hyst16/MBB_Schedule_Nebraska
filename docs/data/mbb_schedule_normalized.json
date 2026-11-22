@@ -334,9 +334,9 @@
     },
     {
       "date": "2026-11-22",
-      "time_local": "11:00 AM CST",
+      "time_local": null,
       "home_away": "N",
-      "nu_rank": null,
+      "nu_rank": 24,
       "opponent": "Butler",
       "opp_rank": null,
       "title": "Butler",
@@ -347,9 +347,9 @@
       "opp_logo": "https://storage.googleapis.com/huskers-com-prod/school_logos/IIGcnoOYB1xesx6JhVbNgrAQlJmKpSZXjXMzxgEV.svg",
       "tv_logo": "https://huskers.com/imgproxy/abOCZPjFk7retFiHI95TY3B_5ZW8xUStFfv9g8xtN5g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8xMC8zMC9TVjZNRmIwUGtaM3BRRmZ5M1BQN0RVeGNDVDROQTdYN2JFNFNNZmI5LmpwZw.jpg",
       "tv": [],
-      "status": "scheduled",
-      "result": null,
-      "result_css": null,
+      "status": "final",
+      "result": "W 76-74",
+      "result_css": "W",
       "notes": null,
       "links": [
         {
@@ -363,6 +363,14 @@
         {
           "title": "",
           "href": "https://foxsports.com/live"
+        },
+        {
+          "title": "Box Score",
+          "href": "https://huskers.com/boxscore/25207"
+        },
+        {
+          "title": "Recap",
+          "href": "https://huskers.com/news/2026/11/22/jacobsens-heroics-lift-huskers-past-butler-76-74"
         }
       ]
     },
