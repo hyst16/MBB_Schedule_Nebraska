@@ -378,7 +378,7 @@
       "date": "2026-11-25",
       "time_local": "4:00 PM CST",
       "home_away": "H",
-      "nu_rank": null,
+      "nu_rank": 21,
       "opponent": "Southern U.",
       "opp_rank": null,
       "title": "Southern U.",
@@ -401,10 +401,6 @@
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
-        },
-        {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/05"
         },
         {
           "title": "Live Stats",

@@ -1,6 +1,6 @@
 {
   "source_url": "https://huskers.com/sports/mens-basketball/schedule",
-  "scraped_at": "2026-11-24T00:51:38.797084+00:00",
+  "scraped_at": "2026-11-24T18:52:02.750731+00:00",
   "items": [
     {
       "date": null,
@@ -404,7 +404,7 @@
       "date_text": "NOV 25",
       "time_local": "4:00 PM CST",
       "venue_type": "H",
-      "nu_rank": null,
+      "nu_rank": 21,
       "opp_rank": null,
       "opponent_name": "Southern U.",
       "city": "Lincoln, Neb.",
@@ -422,10 +422,6 @@
         {
           "title": "",
           "href": "https://huskers.com/sports/mens-basketball/foxsports.com/live"
-        },
-        {
-          "title": "Tickets",
-          "href": "https://huskers.evenue.net/event/B26/05"
         },
         {
           "title": "Live Stats",
